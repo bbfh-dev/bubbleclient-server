@@ -27,7 +27,7 @@ okzoomer-5.0.0-beta.3+1.17.1.jar
 perspektive-1.0.jar
 PlayerHealthIndicators-1.0.0-1.17.1.jar
 Player-Name-History-Lookup-v1.0.5.jar
-replaymod-1.17.1-2.6.4.jar,
+replaymod-1.17.1-2.6.4.jar
 screenshot-to-clipboard-1.0.8-fabric.jar
 sharpness-particles-1.0.0.jar
 sodium-fabric-mc1.17.1-0.3.4+build.13.jar
