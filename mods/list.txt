@@ -11,11 +11,11 @@ essential-client-1.17.1-1.1.6.jar,
 Essential-Fabric-1.17.1.jar
 fabric-api-0.46.1+1.17.jar
 fabric-carpet-1.17.1-1.4.56+v211130.jar
-fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar,
+fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar
 fastopenlinksandfolders-1.0.0.jar
 ferritecore-3.0.3-fabric.jar
 hypoalgesia-1.0.2.jar
-'InventoryHUD-fabric-[1.17.x]-3.4.1.jar'
+InventoryHUD-fabric-[1.17.x]-3.4.1.jar
 lazydfu-0.1.2.jar,
 lazy-language-loader-0.2.2.jar
 lithium-fabric-mc1.17.1-0.7.5.jar
