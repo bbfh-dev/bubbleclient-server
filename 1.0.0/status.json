@@ -37,7 +37,8 @@
         {"action":"download", "file":"screenshot-to-clipboard-1.0.8-fabric.jar"},
         {"action":"download", "file":"sharpness-particles-1.0.0.jar"},
         {"action":"download", "file":"sodium-fabric-mc1.17.1-0.3.4+build.13.jar"},
-        {"action":"download", "file":"togglewalk-1.1.0.jar"}
+        {"action":"download", "file":"togglewalk-1.1.0.jar"},
+        {"action":"download", "file":"cmdkeybind-1.5.2-1.17.jar"}
     ],
     "configs": [
     ]
