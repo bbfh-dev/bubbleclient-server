@@ -40,6 +40,220 @@
         {"action":"download", "file":"togglewalk-1.1.0.jar"},
         {"action":"download", "file":"cmdkeybind-1.5.2-1.17.jar"}
     ],
-    "configs": [
+    "configs":     [
+        {
+            "filename": "options.txt",
+            "contents": "version:2730\nautoJump:false\nautoSuggestions:true\nchatColors:true\nchatLinks:true\nchatLinksPrompt:true\nenableVsync:false\nentityShadows:true\nforceUnicodeFont:false\ndiscrete_mouse_scroll:false\ninvertYMouse:false\nrealmsNotifications:true\nreducedDebugInfo:false\nsnooperEnabled:true\nshowSubtitles:false\ntouchscreen:false\nfullscreen:false\nbobView:true\ntoggleCrouch:false\ntoggleSprint:false\ndarkMojangStudiosBackground:false\nmouseSensitivity:0.352112676056338\nfov:0.5\nscreenEffectScale:0.0\nfovEffectScale:0.0\ngamma:12.0\nrenderDistance:6\nentityDistanceScaling:1.0\nguiScale:0\nparticles:0\nmaxFps:260\ndifficulty:2\ngraphicsMode:0\nao:2\nbiomeBlendRadius:2\nrenderClouds:false\nresourcePacks:[\"vanilla\",\"Fabric Mods\",\"cullleaves/smartleaves\"]\nincompatibleResourcePacks:[]\nlastServer:\nlang:en_us\nchatVisibility:0\nchatOpacity:1.0\nchatLineSpacing:0.0\ntextBackgroundOpacity:0.5\nbackgroundForChatOnly:true\nhideServerAddress:false\nadvancedItemTooltips:false\npauseOnLostFocus:true\noverrideWidth:0\noverrideHeight:0\nheldItemTooltips:true\nchatHeightFocused:1.0\nchatDelay:0.0\nchatHeightUnfocused:0.44366195797920227\nchatScale:1.0\nchatWidth:0.721830985915493\nmipmapLevels:0\nuseNativeTransport:true\nmainHand:right\nattackIndicator:1\nnarrator:0\ntutorialStep:movement\nmouseWheelSensitivity:1.0\nrawMouseInput:true\nglDebugVerbosity:1\nskipMultiplayerWarning:true\nhideMatchedNames:true\njoinedFirstServer:false\nhideBundleTutorial:false\nsyncChunkWrites:false\nkey_key.attack:key.mouse.left\nkey_key.use:key.mouse.right\nkey_key.forward:key.keyboard.w\nkey_key.left:key.keyboard.a\nkey_key.back:key.keyboard.s\nkey_key.right:key.keyboard.d\nkey_key.jump:key.keyboard.space\nkey_key.sneak:key.keyboard.left.shift\nkey_key.sprint:key.keyboard.left.control\nkey_key.drop:key.keyboard.q\nkey_key.inventory:key.keyboard.e\nkey_key.chat:key.keyboard.t\nkey_key.playerlist:key.keyboard.tab\nkey_key.pickItem:key.mouse.middle\nkey_key.command:key.keyboard.slash\nkey_key.socialInteractions:key.keyboard.p\nkey_key.screenshot:key.keyboard.f2\nkey_key.togglePerspective:key.keyboard.f5\nkey_key.smoothCamera:key.keyboard.unknown\nkey_key.fullscreen:key.keyboard.f11\nkey_key.spectatorOutlines:key.keyboard.unknown\nkey_key.swapOffhand:key.keyboard.f\nkey_key.saveToolbarActivator:key.keyboard.unknown\nkey_key.loadToolbarActivator:key.keyboard.x\nkey_key.advancements:key.keyboard.l\nkey_key.hotbar.1:key.keyboard.1\nkey_key.hotbar.2:key.keyboard.2\nkey_key.hotbar.3:key.keyboard.3\nkey_key.hotbar.4:key.keyboard.4\nkey_key.hotbar.5:key.keyboard.5\nkey_key.hotbar.6:key.keyboard.6\nkey_key.hotbar.7:key.keyboard.7\nkey_key.hotbar.8:key.keyboard.8\nkey_key.hotbar.9:key.keyboard.9\nkey_key.custom_hud.enable:key.keyboard.unknown\nkey_key.custom_hud.cycleProfiles:key.keyboard.unknown\nkey_key.custom_hud.swapToProfile1:key.keyboard.unknown\nkey_key.custom_hud.swapToProfile2:key.keyboard.unknown\nkey_key.custom_hud.swapToProfile3:key.keyboard.unknown\nkey_Toggle Debug Menu:key.keyboard.f3\nkey_Toggle Selected Scripts:key.keyboard.unknown\nkey_Stop Selected Scripts:key.keyboard.unknown\nkey_Accurate Reverse:key.keyboard.unknown\nkey_Accurate Into:key.keyboard.unknown\nkey_Open Essential Client Menu:key.keyboard.unknown\nkey_Open Chunk Debug:key.keyboard.f6\nkey_Open Client Script:key.keyboard.unknown\nkey_key.healthindicators.toggle:key.keyboard.keypad.divide\nkey_key.boosted-brightness.next:key.keyboard.b\nkey_key.boosted-brightness.raise:key.keyboard.right.bracket\nkey_key.boosted-brightness.lower:key.keyboard.left.bracket\nkey_key.boosted-brightness.select1:key.keyboard.unknown\nkey_key.boosted-brightness.select2:key.keyboard.unknown\nkey_key.boosted-brightness.select3:key.keyboard.unknown\nkey_key.boosted-brightness.select4:key.keyboard.unknown\nkey_key.boosted-brightness.select5:key.keyboard.unknown\nkey_key.inventoryhud.toggle:key.keyboard.i\nkey_key.inventoryhud.openconfig:key.keyboard.o\nkey_key.inventoryhud.togglepot:key.keyboard.unknown\nkey_key.inventoryhud.togglearm:key.keyboard.unknown\nkey_key.inventoryhud.toggleall:key.keyboard.unknown\nkey_key.okzoomer.zoom:key.keyboard.c\nkey_key.okzoomer.decrease_zoom:key.keyboard.unknown\nkey_key.okzoomer.increase_zoom:key.keyboard.unknown\nkey_key.okzoomer.reset_zoom:key.keyboard.unknown\nkey_Freelook:key.keyboard.y\nkey_key.replaymod.playeroverview:key.keyboard.b\nkey_key.replaymod.lighting:key.keyboard.z\nkey_key.replaymod.quickmode:key.keyboard.q\nkey_key.replaymod.settings:key.keyboard.unknown\nkey_key.replaymod.marker:key.keyboard.m\nkey_key.replaymod.thumbnail:key.keyboard.n\nkey_key.replaymod.playpause:key.keyboard.p\nkey_key.replaymod.rollclockwise:key.keyboard.l\nkey_key.replaymod.rollcounterclockwise:key.keyboard.j\nkey_key.replaymod.resettilt:key.keyboard.k\nkey_key.replaymod.pathpreview:key.keyboard.h\nkey_key.replaymod.keyframerepository:key.keyboard.x\nkey_key.replaymod.clearkeyframes:key.keyboard.c\nkey_key.replaymod.synctimeline:key.keyboard.v\nkey_key.replaymod.positionkeyframe:key.keyboard.i\nkey_key.replaymod.positiononlykeyframe:key.keyboard.unknown\nkey_key.replaymod.timekeyframe:key.keyboard.o\nkey_key.replaymod.bothkeyframes:key.keyboard.unknown\nkey_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.h\nkey_keybind.name.COSMETIC_STUDIO:key.keyboard.b\nkey_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.o\nkey_keybind.name.ADD_FRIEND:key.keyboard.unknown\nkey_keybind.name.CHAT_PEEK:key.keyboard.z\nkey_keybind.name.INVITE_FRIENDS:key.keyboard.unknown\nkey_keybind.name.ZOOM:key.keyboard.insert\nsoundCategory_master:0.5033113\nsoundCategory_music:0.0\nsoundCategory_record:1.0\nsoundCategory_weather:0.5070422\nsoundCategory_block:1.0\nsoundCategory_hostile:1.0\nsoundCategory_neutral:1.0\nsoundCategory_player:1.0\nsoundCategory_ambient:1.0\nsoundCategory_voice:1.0\nmodelPart_cape:true\nmodelPart_jacket:true\nmodelPart_left_sleeve:true\nmodelPart_right_sleeve:true\nmodelPart_left_pants_leg:true\nmodelPart_right_pants_leg:true\nmodelPart_hat:true"
+        },
+        {
+            "filename": "config/togglewalk_config.json",
+            "contents": [
+                {
+                    "toggle": "sprint"
+                }
+            ]
+        },
+        {
+            "filename": "config/boostedbrightness.json",
+            "contents": {
+                "min": -1.0,
+                "max": 12.0,
+                "step": 0.1,
+                "selected": 1,
+                "last": 1,
+                "1": 12.0,
+                "2": 12.0
+            }
+        },
+        {
+            "filename": "config/",
+            "contents": {
+                "core": {
+                    "notifications": false
+                },
+                "advanced": {
+                    "recordingPath": "./replay_recordings/",
+                    "cachePath": "./.replay_cache/",
+                    "renderPath": "./replay_videos/",
+                    "skipPostRenderGui": false,
+                    "askForOpenEye": true,
+                    "skipPostScreenshotGui": false,
+                    "fullBrightness": "replaymod.gui.settings.fullbrightness.gamma",
+                    "fullBrightness_valid_values": [
+                        "replaymod.gui.settings.fullbrightness.gamma",
+                        "replaymod.gui.settings.fullbrightness.nightvision",
+                        "replaymod.gui.settings.fullbrightness.both"
+                    ]
+                },
+                "recording": {
+                    "recordSingleplayer": false,
+                    "recordServer": true,
+                    "indicator": false,
+                    "autoStartRecording": true,
+                    "autoPostProcess": true,
+                    "renameDialog": false
+                },
+                "replay": {
+                    "showChat": true,
+                    "showServerIPs": true,
+                    "camera": "replaymod.camera.classic",
+                    "camera_valid_values": [
+                        "replaymod.camera.classic",
+                        "replaymod.camera.vanilla"
+                    ],
+                    "mainMenuButton": "DEFAULT",
+                    "mainMenuButton_valid_values": [
+                        "BIG",
+                        "DEFAULT",
+                        "TOP_LEFT",
+                        "TOP_RIGHT",
+                        "LEFT_OF_SINGLEPLAYER",
+                        "RIGHT_OF_SINGLEPLAYER",
+                        "LEFT_OF_MULTIPLAYER",
+                        "RIGHT_OF_MULTIPLAYER",
+                        "LEFT_OF_REALMS",
+                        "RIGHT_OF_REALMS",
+                        "LEFT_OF_MODS",
+                        "RIGHT_OF_MODS"
+                    ]
+                },
+                "render": {
+                    "frameTimeFromWorldTime": false
+                },
+                "simplepathing": {
+                    "pathpreview": true,
+                    "autosync": true,
+                    "timelineLength": 1800,
+                    "interpolator": "replaymod.gui.editkeyframe.interpolator.catmullrom.name",
+                    "interpolator_valid_values": [
+                        "replaymod.gui.editkeyframe.interpolator.catmullrom.name",
+                        "replaymod.gui.editkeyframe.interpolator.cubic.name",
+                        "replaymod.gui.editkeyframe.interpolator.linear.name"
+                    ]
+                }
+            }
+        },
+        {
+            "filename": "config/inventoryhud.json",
+            "contents": {
+                "inv_toggle": false,
+                "inv_mini": false,
+                "inv_vert": false,
+                "inv_alpha": 0,
+                "inv_hide_b_g": false,
+                "inv_aminated": false,
+                "pot_toggle": true,
+                "pot_alpha": 100,
+                "pot_gap": 0,
+                "pot_mini": false,
+                "bar_duration": 300,
+                "pot_hor": false,
+                "arm_toggle": false,
+                "arm_above": 100,
+                "arm_view": "percentage",
+                "move_all": true,
+                "show_empty": true,
+                "show_armor": true,
+                "show_main": true,
+                "show_off": true,
+                "show_arrows": true,
+                "show_inv": true,
+                "arm_bars": false,
+                "arm_scale": 100,
+                "show_count": false,
+                "inv_x": 160,
+                "inv_y": 52,
+                "inv_val": "BOTTOM",
+                "inv_hal": "RIGHT",
+                "pot_x": 126,
+                "pot_y": 73,
+                "pot_val": "TOP",
+                "pot_hal": "LEFT",
+                "arm_x": 90,
+                "arm_y": 120,
+                "arm_val": "BOTTOM",
+                "arm_hal": "RIGHT",
+                "helm_x": 103,
+                "helm_y": 54,
+                "chest_x": 103,
+                "chest_y": 37,
+                "leg_x": -103,
+                "leg_y": 54,
+                "boots_x": -103,
+                "boots_y": 37,
+                "main_x": 103,
+                "main_y": 71,
+                "off_x": -103,
+                "off_y": 71,
+                "arr_x": 103,
+                "arr_y": 20,
+                "inv_icon_x": -103,
+                "inv_icon_y": 20,
+                "helm_hal": "MIDDLE",
+                "chest_hal": "MIDDLE",
+                "leg_hal": "MIDDLE",
+                "boots_hal": "MIDDLE",
+                "main_hal": "MIDDLE",
+                "off_hal": "MIDDLE",
+                "arr_hal": "MIDDLE",
+                "inv_icon_hal": "MIDDLE",
+                "helm_val": "BOTTOM",
+                "chest_val": "BOTTOM",
+                "leg_val": "BOTTOM",
+                "boots_val": "BOTTOM",
+                "main_val": "BOTTOM",
+                "off_val": "BOTTOM",
+                "arr_val": "BOTTOM",
+                "inv_icon_val": "BOTTOM"
+            }
+        },
+        {
+            "filename": "config/cmdkeybindconfig.json5",
+            "contents": {
+                "enabled": true,
+                "macros": [
+                    {
+                        "keyName": "key.keyboard.z",
+                        "keyModName": "key.keyboard.left.alt",
+                        "command": "/kill",
+                        "macroType": "SingleUse",
+                        "delay": 0
+                    }
+                ]
+            }
+        },
+        {
+            "filename": "config/sodium-options.json",
+            "contents": {
+                "quality": {
+                    "weather_quality": "FAST",
+                    "leaves_quality": "FAST",
+                    "enable_vignette": true
+                },
+                "advanced": {
+                    "arena_memory_allocator": "ASYNC",
+                    "allow_direct_memory_access": true,
+                    "enable_memory_tracing": false,
+                    "use_advanced_staging_buffers": true,
+                    "cpu_render_ahead_limit": 3
+                },
+                "performance": {
+                    "chunk_builder_threads": 0,
+                    "always_defer_chunk_updates": false,
+                    "animate_only_visible_textures": true,
+                    "use_entity_culling": true,
+                    "use_particle_culling": true,
+                    "use_fog_occlusion": true,
+                    "use_block_face_culling": true
+                },
+                "notifications": {
+                    "hide_donation_button": false
+                }
+            }
+        },
+        {
+            "filename": "config/custom-hud/profile1.txt",
+            "contents": "FPS: {fps}  |  Ping: {ping}"
+        }
     ]
 }
