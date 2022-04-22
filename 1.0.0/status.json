@@ -66,7 +66,7 @@
             }
         },
         {
-            "filename": "config/",
+            "filename": "config/replaymod.json",
             "contents": {
                 "core": {
                     "notifications": false
