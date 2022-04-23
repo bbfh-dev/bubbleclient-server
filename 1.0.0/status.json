@@ -254,6 +254,10 @@
         {
             "filename": "config/custom-hud/profile1.txt",
             "contents": "FPS: {fps}  |  Ping: {ping}"
+        },
+        {
+            "filename": "config/damage_tint.json",
+            "contents": {"health":8.0,"dynamic":true}
         }
     ]
 }
