@@ -20,7 +20,7 @@
         {"action":"download", "file":"fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar", "size":6015249},
         {"action":"download", "file":"fastopenlinksandfolders-1.0.0.jar", "size":8154},
         {"action":"download", "file":"ferritecore-3.0.3-fabric.jar", "size":103202},
-        {"action":"download", "file":"hypoalgesia-1.0.2.jar", "size":11819},
+        {"action":"remove", "file":"hypoalgesia-1.0.2.jar", "size":11819},
         {"action":"download", "file":"InventoryHUD-fabric-[1.17.x]-3.4.1.jar", "size":226191},
         {"action":"download", "file":"lazydfu-0.1.2.jar", "size":15517},
         {"action":"download", "file":"lazy-language-loader-0.2.2.jar", "size":16316},
