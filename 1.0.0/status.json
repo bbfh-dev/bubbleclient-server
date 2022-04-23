@@ -34,7 +34,7 @@
         {"action":"download", "file":"perspektive-1.0.jar"},
         {"action":"download", "file":"PlayerHealthIndicators-1.0.0-1.17.1.jar"},
         {"action":"download", "file":"Player-Name-History-Lookup-v1.0.5.jar"},
-        {"action":"download", "file":"replaymod-1.17.1-2.6.4.jar"},
+        {"action":"download", "file":"replaymod-1.17.1-2.6.4.jar", "size": 12432738},
         {"action":"download", "file":"screenshot-to-clipboard-1.0.8-fabric.jar"},
         {"action":"download", "file":"sharpness-particles-1.0.0.jar"},
         {"action":"download", "file":"sodium-fabric-mc1.17.1-0.3.4+build.13.jar"},
