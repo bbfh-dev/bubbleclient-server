@@ -5,7 +5,7 @@
     "mods": [
         {
             "action": "delete",
-            "file": "Essential-Fabric-1.17.1.jar"
+            "file": "bubbleclient-mod-1.0.0.jar"
         },
         {
             "action": "download",
@@ -109,8 +109,8 @@
         },
         {
             "action": "download",
-            "file": "bubbleclient-mod-1.0.0.jar",
-            "size": 34588,
+            "file": "bubbleclient-mod-1.0.1.jar",
+            "size": 34661,
             "config": {
                 "dir": "/bubbleclient",
                 "file": "database.txt",
