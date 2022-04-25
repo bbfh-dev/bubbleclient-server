@@ -7,24 +7,6 @@
     "mods": [
         {
             "action": "download",
-            "file": "boosted-brightness-2.1.0.jar",
-            "size": 38357,
-            "config": {
-                "dir": "",
-                "file": "boostedbrightness.json",
-                "contents": {
-                    "min": -1.0,
-                    "max": 12.0,
-                    "step": 0.1,
-                    "selected": 1,
-                    "last": 1,
-                    "1": 12.0,
-                    "2": 12.0
-                }
-            }
-        },
-        {
-            "action": "download",
             "file": "Essential-Fabric-1.17.1.jar",
             "size": 19059
         },
