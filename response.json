@@ -116,22 +116,12 @@
         {
             "action": "download",
             "file": "PlayerHealthIndicators-1.0.0-1.17.1.jar",
-            "size": 9425,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 9425
         },
         {
             "action": "download",
             "file": "boosted-brightness-2.1.0.jar",
-            "size": 38357,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 38357
         },
         {
             "action": "download",
@@ -146,22 +136,12 @@
         {
             "action": "download",
             "file": "chatlagfix-1.16.5+1.17.1-2.1.0.jar",
-            "size": 7964,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 7964
         },
         {
             "action": "download",
             "file": "cloth-config-5.3.58-fabric.jar",
-            "size": 1096188,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 1096188
         },
         {
             "action": "download",
@@ -187,12 +167,7 @@
         {
             "action": "download",
             "file": "cullleaves-2.3.2.jar",
-            "size": 82789,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 82789
         },
         {
             "action": "download",
@@ -220,152 +195,77 @@
         {
             "action": "download",
             "file": "enhancedblockentities-0.5+1.17.jar",
-            "size": 263535,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 263535
         },
         {
             "action": "download",
             "file": "fabric-api-0.46.1+1.17.jar",
-            "size": 1207739,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 1207739
         },
         {
             "action": "download",
             "file": "fabric-carpet-1.17.1-1.4.56+v211130.jar",
-            "size": 1439853,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 1439853
         },
         {
             "action": "download",
             "file": "fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar",
-            "size": 6015249,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 6015249
         },
         {
             "action": "download",
             "file": "fastopenlinksandfolders-1.0.0.jar",
-            "size": 8154,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 8154
         },
         {
             "action": "download",
             "file": "ferritecore-3.0.3-fabric.jar",
-            "size": 103202,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 103202
         },
         {
             "action": "download",
             "file": "lazy-language-loader-0.2.2.jar",
-            "size": 16316,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 16316
         },
         {
             "action": "download",
             "file": "lazydfu-0.1.2.jar",
-            "size": 15517,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 15517
         },
         {
             "action": "download",
             "file": "lithium-fabric-mc1.17.1-0.7.5.jar",
-            "size": 444781,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 444781
         },
         {
             "action": "download",
             "file": "mcemojis-1.4.jar",
-            "size": 15426,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 15426
         },
         {
             "action": "download",
             "file": "modmenu-2.0.14.jar",
-            "size": 262086,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 262086
         },
         {
             "action": "download",
             "file": "morechathistory-1.17.1-1.1.0.jar",
-            "size": 11375,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 11375
         },
         {
             "action": "download",
             "file": "narrator-off-0.0.1.jar",
-            "size": 17275,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 17275
         },
         {
             "action": "download",
             "file": "okzoomer-5.0.0-beta.3+1.17.1.jar",
-            "size": 269759,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 269759
         },
         {
             "action": "download",
             "file": "perspektive-1.0.jar",
-            "size": 9426,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 9426
         },
         {
             "action": "download",
@@ -444,22 +344,12 @@
         {
             "action": "download",
             "file": "screenshot-to-clipboard-1.0.8-fabric.jar",
-            "size": 16541,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 16541
         },
         {
             "action": "download",
             "file": "sharpness-particles-1.0.0.jar",
-            "size": 5712,
-            "config": {
-                "dir": "",
-                "file": "",
-                "contents": ""
-            }
+            "size": 5712
         },
         {
             "action": "download",
