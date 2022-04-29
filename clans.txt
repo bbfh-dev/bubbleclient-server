@@ -1,3 +1,10 @@
-0=§b§l@§r (LK)
-1=§a§l@§r (Serenity)
-2=§4§l@§r (Eternal)
+0=§b§l@§r (LK)=LegionKnights
+1=§a§l@§r (SRNT)=Serenity
+2=§4§l@§r (ETRN)=Eternal
+3=§c§l@§r (LA)=LaArmada
+4=§3§l@§r (VPNG)=Vaping
+5=§d§l@§r (MTHC)=Mythic
+6=§9§l@§r (CCNT)=CCNet
+7=§1§l@§r (BLTH)=Blyth
+8=§6§l@§r (ELT)=Elite
+9=§e§l@§r (Rookie)=Rookie
