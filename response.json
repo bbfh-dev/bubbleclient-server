@@ -1,411 +1,155 @@
 {
     "version": "1.0.0",
-    "home": "[b][i]BubbleClient Hub[/i][/b]\nInstall & Update BubbleClient with ease! [b]BubbleClient[/b] — A powerful client that uses FabricMC as its basis with preinstalled mods and configurations. These include nice mods made by people and a build-in mod developed specifically for this client!\n\n[b]WARNING[/b] If your PC is powerful enough, you can enable auto-recording servers in settings! Go to Mods > Replaymod > Enable auto-recording.\n\n[b][i]Why BubbleClient?[/i][/b]\n[table=1]\n[cell]Unlike other PvP Clients, BubbleClient isn't bloated, it has features perfectly polished to work the best for the player's experience according to BubbleFish.[/cell]\n[cell]You can always get support, since BubbleFish is in the same clan as you, always ready to help![/cell]\n[cell]This client is perfectly optimized for clan PvP.[/cell]\n[/table]\n\n[b][i]BubbleClient own features[/i][/b]\nUse [code]/bubbleclient[/code] command to toggle some of the features on/off!\nUse [code]/clan[/code] command to add/remove/get clan of a player.\n\n[b][i]Features[/i][/b]\n[indent][b]Performance boosts[/b][/indent]\nYou are getting a smooth experience on both weak and powerful computers without sacrifice. You get more FPS, less memory usage, faster loading screens and more!\n\n[indent][b]Friends, Chat & Cosmetics[/b][/indent]\nMore people use this client - more will be able to chat in game. Invite to servers and use cosmetics.\n\n[indent][b]Player clans[/b][/indent]\nYou can set player clans that will make their in-game name colorful, which helps in war/big fights! To do so use '/clan set <player> <clan name>'. This mod was made by me, and automatically keeps track of player name changes\n\n[indent][b]Replaymod[/b][/indent]\nYou can record servers to report cheaters, make videos, clips. You can appeal your bans. [b]Which you can use if you don't have a recording software[/b]\n\n[indent][b]Better Ping display[/b][/indent]\nPlayer pings won't display as lines, but as numbers now. You can always see your ping by looking at top left corner as well!\n\n[indent][b]HUD[/b][/indent]\nYou can see your potion effects and when do they expire, very useful for playing wizard.\n\n[indent][b]Player Name History Lookup[/b][/indent]\nDon't remember that guy? Look his name up maybe it's your friend!\n\n[indent][b]Health indicators[/b][/indent]\nSome servers already have that. But, they display health as numbers, hearts are more intuitive, aren't they?\n\n[indent][b]Look around[/b][/indent]\nYou can hold a key to look around yourself without moving your head. Useful when running away from someone, but, are you eternal to do so?\n\n[indent][b]Emoji in chat[/b][/indent]\nYou can send emoji in chat. Instruction: [color=#3057EA][url=https://docs.google.com/document/d/1FWuPpHqQYkXnfRXXoAtagxrZlUyBaDvvLxpdS7o0ZKE/edit]How to use[/url][/color]. Those emoji will be seen by all players, not only those who use client!!\n\n[indent][b]Zoom[/b][/indent]\nYou can zoom in and out by holding a key then using your mouse wheel. Very smooth and can zoom as far as you wish.\n\n[indent][b]Toggled sprint[/b][/indent]\nYou don't have to hold Ctrl key all the time, just press it once and run forever!\n\n[indent][b]Keybinds[/b][/indent]\nYou run away from 8 people and you wish to respawn? You can press a keybind to quickly do /kill or any other (only pussies abuse it though)\n\n[indent][b]Popular mods[/b][/indent]\nYou can use sodium and lithium!\n\n[indent][b]Other tweaks[/b][/indent]\n* More chat history, no more chat lag.\n* No more narrator.\n* Screen tint to make you aware of low health.\n* Copy screenshot to clipboard automatically.\n* Chests, signs, etc. are 10+ (no kidding) times more optimized.\n* Cull leaves (improve performance).\n* Opening links won't freeze your game anymore.",
+    "home": "[b][i]BubbleClient Hub[/i][/b]\nInstall & Update BubbleClient with ease! [b]BubbleClient[/b] \u2014 A powerful client that uses FabricMC as its basis with preinstalled mods and configurations. These include nice mods made by people and a build-in mod developed specifically for this client!\n\n[b]WARNING[/b] If your PC is powerful enough, you can enable auto-recording servers in settings! Go to Mods > Replaymod > Enable auto-recording.\n\n[b][i]Why BubbleClient?[/i][/b]\n[table=1]\n[cell]Unlike other PvP Clients, BubbleClient isn't bloated, it has features perfectly polished to work the best for the player's experience according to BubbleFish.[/cell]\n[cell]You can always get support, since BubbleFish is in the same clan as you, always ready to help![/cell]\n[cell]This client is perfectly optimized for clan PvP.[/cell]\n[/table]\n\n[b][i]BubbleClient own features[/i][/b]\nUse [code]/bubbleclient[/code] command to toggle some of the features on/off!\nUse [code]/clan[/code] command to add/remove/get clan of a player.\n\n[b][i]Features[/i][/b]\n[indent][b]Performance boosts[/b][/indent]\nYou are getting a smooth experience on both weak and powerful computers without sacrifice. You get more FPS, less memory usage, faster loading screens and more!\n\n[indent][b]Friends, Chat & Cosmetics[/b][/indent]\nMore people use this client - more will be able to chat in game. Invite to servers and use cosmetics.\n\n[indent][b]Player clans[/b][/indent]\nYou can set player clans that will make their in-game name colorful, which helps in war/big fights! To do so use '/clan set <player> <clan name>'. This mod was made by me, and automatically keeps track of player name changes\n\n[indent][b]Replaymod[/b][/indent]\nYou can record servers to report cheaters, make videos, clips. You can appeal your bans. [b]Which you can use if you don't have a recording software[/b]\n\n[indent][b]Better Ping display[/b][/indent]\nPlayer pings won't display as lines, but as numbers now. You can always see your ping by looking at top left corner as well!\n\n[indent][b]HUD[/b][/indent]\nYou can see your potion effects and when do they expire, very useful for playing wizard.\n\n[indent][b]Player Name History Lookup[/b][/indent]\nDon't remember that guy? Look his name up maybe it's your friend!\n\n[indent][b]Health indicators[/b][/indent]\nSome servers already have that. But, they display health as numbers, hearts are more intuitive, aren't they?\n\n[indent][b]Look around[/b][/indent]\nYou can hold a key to look around yourself without moving your head. Useful when running away from someone, but, are you eternal to do so?\n\n[indent][b]Emoji in chat[/b][/indent]\nYou can send emoji in chat. Instruction: [color=#3057EA][url=https://docs.google.com/document/d/1FWuPpHqQYkXnfRXXoAtagxrZlUyBaDvvLxpdS7o0ZKE/edit]How to use[/url][/color]. Those emoji will be seen by all players, not only those who use client!!\n\n[indent][b]Zoom[/b][/indent]\nYou can zoom in and out by holding a key then using your mouse wheel. Very smooth and can zoom as far as you wish.\n\n[indent][b]Toggled sprint[/b][/indent]\nYou don't have to hold Ctrl key all the time, just press it once and run forever!\n\n[indent][b]Keybinds[/b][/indent]\nYou run away from 8 people and you wish to respawn? You can press a keybind to quickly do /kill or any other (only pussies abuse it though)\n\n[indent][b]Popular mods[/b][/indent]\nYou can use sodium and lithium!\n\n[indent][b]Other tweaks[/b][/indent]\n* More chat history, no more chat lag.\n* No more narrator.\n* Screen tint to make you aware of low health.\n* Copy screenshot to clipboard automatically.\n* Chests, signs, etc. are 10+ (no kidding) times more optimized.\n* Cull leaves (improve performance).\n* Opening links won't freeze your game anymore.",
     "about": "[center][b][i]About[/i][/b][/center]\nThis client is made by BubbleFish using Godot engine. Source code is available on [url=https://github.com/bubblefish-dev/bubbleclient-origin]Github[/url]. Made for LegionKnights PvP Clan <3 TheBlueKnight_",
     "mods": [
         {
-            "action": "delete",
+            "action": "remove",
             "file": "bubbleclient-mod-1.0.0.jar"
         },
         {
-            "action": "delete",
+            "action": "remove",
             "file": "bubbleclient-mod-1.0.1.jar"
         },
         {
-            "action": "delete",
+            "action": "remove",
             "file": "bubbleclient-mod-1.1.0.jar"
         },
         {
-            "action": "delete",
+            "action": "remove",
             "file": "bubbleclient-mod-1.1.1.jar"
         },
         {
-            "action": "delete",
+            "action": "remove",
             "file": "bubbleclient-mod-1.1.2.jar"
-        }
-        {
-            "action": "download",
-            "file": "Essential-Fabric-1.17.1.jar",
-            "size": 19059
         },
         {
-            "action": "download",
-            "file": "InventoryHUD-fabric-[1.17.x]-3.4.1.jar",
-            "size": 226191,
-            "config": {
-                "dir": "",
-                "file": "inventoryhud.json",
-                "contents": {
-                    "inv_toggle": false,
-                    "inv_mini": false,
-                    "inv_vert": false,
-                    "inv_alpha": 0,
-                    "inv_hide_b_g": false,
-                    "inv_aminated": false,
-                    "pot_toggle": true,
-                    "pot_alpha": 100,
-                    "pot_gap": 0,
-                    "pot_mini": false,
-                    "bar_duration": 300,
-                    "pot_hor": false,
-                    "arm_toggle": false,
-                    "arm_above": 100,
-                    "arm_view": "percentage",
-                    "move_all": true,
-                    "show_empty": true,
-                    "show_armor": true,
-                    "show_main": true,
-                    "show_off": true,
-                    "show_arrows": true,
-                    "show_inv": true,
-                    "arm_bars": false,
-                    "arm_scale": 100,
-                    "show_count": false,
-                    "inv_x": 160,
-                    "inv_y": 52,
-                    "inv_val": "BOTTOM",
-                    "inv_hal": "RIGHT",
-                    "pot_x": 126,
-                    "pot_y": 73,
-                    "pot_val": "TOP",
-                    "pot_hal": "LEFT",
-                    "arm_x": 90,
-                    "arm_y": 120,
-                    "arm_val": "BOTTOM",
-                    "arm_hal": "RIGHT",
-                    "helm_x": 103,
-                    "helm_y": 54,
-                    "chest_x": 103,
-                    "chest_y": 37,
-                    "leg_x": -103,
-                    "leg_y": 54,
-                    "boots_x": -103,
-                    "boots_y": 37,
-                    "main_x": 103,
-                    "main_y": 71,
-                    "off_x": -103,
-                    "off_y": 71,
-                    "arr_x": 103,
-                    "arr_y": 20,
-                    "inv_icon_x": -103,
-                    "inv_icon_y": 20,
-                    "helm_hal": "MIDDLE",
-                    "chest_hal": "MIDDLE",
-                    "leg_hal": "MIDDLE",
-                    "boots_hal": "MIDDLE",
-                    "main_hal": "MIDDLE",
-                    "off_hal": "MIDDLE",
-                    "arr_hal": "MIDDLE",
-                    "inv_icon_hal": "MIDDLE",
-                    "helm_val": "BOTTOM",
-                    "chest_val": "BOTTOM",
-                    "leg_val": "BOTTOM",
-                    "boots_val": "BOTTOM",
-                    "main_val": "BOTTOM",
-                    "off_val": "BOTTOM",
-                    "arr_val": "BOTTOM",
-                    "inv_icon_val": "BOTTOM"
-                }
-            }
+            "action": "remove",
+            "file": "Essential-Fabric-1.17.1.jar"
         },
         {
-            "action": "download",
-            "file": "Player-Name-History-Lookup-v1.0.5.jar",
-            "size": 9918
+            "action": "remove",
+            "file": "InventoryHUD-fabric-[1.17.x]-3.4.1.jar"
         },
         {
-            "action": "download",
-            "file": "PlayerHealthIndicators-1.0.0-1.17.1.jar",
-            "size": 9425
+            "action": "remove",
+            "file": "Player-Name-History-Lookup-v1.0.5.jar"
         },
         {
-            "action": "download",
-            "file": "boosted-brightness-2.1.0.jar",
-            "size": 38357
+            "action": "remove",
+            "file": "PlayerHealthIndicators-1.0.0-1.17.1.jar"
         },
         {
-            "action": "download",
-            "file": "bubbleclient-mod-1.1.3.jar",
-            "size": 34201,
-            "config": {
-                "dir": "/bubbleclient",
-                "file": "database.txt",
-                "contents": "e84d4ec7-90ac-4eb4-ad67-12507e1a876e=1\n0351dea2-d7db-410a-9cc4-3454303d8977=9\n96132855-742d-4ac6-b9b3-fbd36f72021d=7\n7c1837a2-efe4-4385-822b-36760767006b=8\n5013128c-cdbe-4947-8e87-8f422cdb0e3c=4\nda9a7845-8412-4004-90fc-694968017039=9\nfb90f2ae-35d8-4055-bae8-61e5b89d07a6=9\nb7fffa70-6fb4-4356-a689-112b56992cfc=1\n26430cfa-4344-49a1-b5a0-48de860496d3=4\na5731cc4-f9ea-47a4-b59a-89e943b9a7e3=4\n44944821-ab63-4215-85d7-181951688d68=4\n27eeb686-a4bc-4226-9232-3af5faafed8e=4\n41870987-194c-4008-b32e-ed9f3a8bd88a=8\n52f15b44-4bed-4bb9-9153-29d9a97cb703=0\nf48fc350-425e-4be8-acea-4195e9376cd8=8\n63f0ea44-612f-49d9-9067-eda987b6454c=8\n0cc6e230-46af-46dd-88e6-65ed8572777d=0\n642cabdb-26de-40f2-9571-b861a38b9dac=1\n5a06ad79-b0ed-4a41-bec0-e3f7127d68f0=0\n29cfe59a-88ad-4e8c-adf7-034a21192c62=0\ne929163a-6187-47ec-86d2-d30db77b8d3b=4\ne18828e4-a542-442c-a50c-87feda2b51c5=2\nab7233c8-60c6-4ece-886a-380fda05427d=1\n8abdf9db-d1e4-431c-b6f0-5cf78ea00290=0\nd51b2de9-efd8-4d4c-a993-3b0c35a1a7f7=9\nd423b8b6-8c6e-4618-8365-d25b132f4824=8\n668297ba-4670-4e9d-a6fb-5fdad6384553=8\ncac5404d-38a6-4480-bf30-b2a1eda02fce=4\n4604f162-f574-4c32-9fd2-4db59edd9e9c=4\nc92ecf06-0c11-48c6-ae4d-20643d8a2b43=4\n5e8293cc-1e67-4c39-bedb-a10034eb0fa8=4\n698f192e-81db-4d86-b8b3-96ab7b80ffb8=8\n8d9db37a-5394-41c0-b7a6-9ab33aafecc4=0\n3ee5ce57-dea4-4f21-89d9-0c4bfcd50e91=9\na29e237f-9683-47c6-9d3d-d2f66cdfa61e=4\ndc984452-fc88-4de1-b472-2d75275d59e1=1\n6e7f41cc-1d65-450a-831a-33f5800784df=6\n71e79548-1706-42f3-8db1-81fd2b6bba0d=9\nd92a6cda-b0c8-4547-9a59-8fc2d1dcf0ef=4\n73323b7d-646f-42fd-9ff7-4bbf7131062c=4\n90543e34-de67-4554-bc55-59f796b60252=4\n56b7364d-f13b-43d4-ae1a-91fd93acd2ab=4\n148e06ff-033e-4430-be18-e08202da8124=6\ndfd22b70-8d4c-4ef0-8196-553f9c1f555f=9\n2f5ab12b-8ec9-43b8-8b49-f3ebd8045391=1\nc1321367-8359-47f5-9019-03017d3c1a5a=4\ne848d5ff-b7ed-44a1-a50a-f4fcc55c4a46=4\nb39007b2-4145-4a92-b745-d27f9f7d186e=4\n92e07b30-1027-4487-b6eb-5b971a87b318=4\n03fbd26c-3a77-4ff7-81dd-77154afc645a=4\n2701201a-ef04-43f5-ae42-52f28086b429=4\na5d9e2ab-a5b9-4478-ab78-39895c74edfa=4\n59948687-6334-49c9-920d-e9107c72d73c=4\n76d611a8-f6b9-40ec-84b4-de36b9fadf31=0\n619320c1-83bf-47c8-90d1-7e266fe38be7=8\n81448332-8486-416b-a3ef-bcadd259bbef=4\na9f86a1e-b2ab-4d2c-a906-4458f00d9057=8\n14bbc3dc-219b-4a41-a34d-c69fb95107fb=4\nf4b3f858-c882-44ea-b7ee-ea984d8cac26=9\nd503b65a-ca51-461e-93d9-4e7e61cc2460=1\n367c3f89-ab04-41bb-9b48-8ad3137265b1=1\n888fb3bd-a811-45da-8740-996aac236685=1\nfbe95da3-5cfb-45df-a7c7-27da8ba1ab70=4\ncf4d980c-ab30-495e-869c-4a9236a5410d=9\nb1b4f983-94b2-4e63-b880-b092b2a31262=0\n20f5ba6b-a142-4fb0-b92f-db7891c817ef=2\n540d51e1-ca83-421d-bc2f-9e1c246bf86e=4\nf7555b5e-92e5-41f8-8c16-abf259f238e2=4\nd928ff32-26f5-4195-9950-a2239035a8c9=1\n60d04540-d2a8-43cb-817c-945a89b478d3=8\nebd90549-2fed-48b8-b947-fbb9f0e39b40=4\n0de938cf-1b7e-46be-a021-24cac5abf594=1\n03f79573-47af-4ea6-a14a-e94e058b5854=0\n50657c19-33be-41f7-9ebc-0091a40cb33b=0\n440bf47a-3491-40fe-a0ab-50854fcfc209=7\nf4aa6afa-d90c-4dd2-97b2-ed453b8c99fe=9\n3aa7a828-00f0-4679-9d83-4c0318c0dfa6=6\na0b83200-e872-4c4f-b3f1-e1543fec902c=1\n85027381-a163-4edf-9670-053ef67087ad=0\nd1d8ac6e-ed0c-4f8b-986f-73af6e388f7d=4\n6e1f1e5d-bd7b-4e44-8c47-66f15847af90=9\n55c34ae1-1d19-43fa-a2fc-943e219d1f81=0\n3bc19577-e8ac-400e-aebd-869cdb8f2ecb=1\n1c527158-56e8-4f8b-b2db-75e565d77f36=4\n1f9df8ad-40aa-4416-a81b-5245f72434fa=4\nf951de64-7dc5-4c09-a3ed-78588ad2a433=4\nd5a915e3-444b-466a-855d-84ede292c58a=4\nd2fe3e48-8eae-4735-b2aa-8e8954d8e355=4\n105d5b71-5382-4aa1-94e3-2d7fda0f93c5=1\n8031604a-2e2a-408a-8add-b65f8f8bb94c=8\n25169f05-712b-4488-8466-d3fa1146b517=4\n746f19f4-a4f6-41b7-b53a-1af2dbb86eba=4\nfe27888a-e105-4476-8288-12580fb8ccd1=9\naa0c3aa7-862f-4327-b361-8b71a5256cfb=0\nbafffbdc-a4a8-4226-81e8-0aecc66fbb7d=0\nfe35125f-be1c-47fc-9d8f-352d07ef1d0e=4\n40759349-d506-4d9c-aedb-a7fa905fa019=9\n2ba5adaa-3761-4f3e-a46b-b88ee896b685=1\ncd8e7d4d-dff6-4e03-8e94-8d390c581522=1\n26ac9850-cb62-4fed-8571-98e307037f82=0\na71f66b0-f335-4f84-80d7-7a6314a2b647=9\n03091196-f871-45ae-b097-e129e226f44f=4\n618a277d-e74d-4517-8dd9-100ebb8cf14f=9\n4d82499b-0c59-42eb-ad84-7559849ba02b=0\n6f736a27-fba7-487f-9cdd-8ba0308a6ab3=6\n56cd291f-024f-4a1c-aa67-a7e28c0198ff=1\n6bc59ce3-ea5b-4aef-917e-d094159101a1=1\nd06a0a61-ee9f-46cc-af28-799c578bce19=8\ne6440a0f-b568-40eb-acd5-2106edab40c2=9\n3f7c9cfc-68f7-41f0-a286-cc9bc0213007=4\nfbcc8ae8-23fe-4a51-84fa-951ac96221a8=4\nbd3362cd-c8a5-4eba-a1d8-332ffb7e4264=9\n36d0d102-d678-44a2-a846-2349f8ee0fd1=1\n4f4bc396-7e7c-4935-a3f7-6dcde4684efa=0\nfff1c48d-08d9-4707-a6a3-683fbc0769d2=9\nea580a7e-5222-497e-bec9-b3a9554e08cb=4\n7650ff74-8842-411c-865f-9fc308e65a7b=0\nffc99be4-5295-41c2-8ae8-49acbecfe832=7\n1171f441-8294-4e5a-9678-6d4440d28531=4\n7f2846f3-2721-4b5d-b1d3-103a68515690=9\n7ba27649-a5d6-4b6d-9cd8-2808c7d272dd=4\ndbd0f25a-8583-451d-9d43-c5b2574a7e73=4\n79432c17-0a24-48a2-aba5-b1f3b9d497b5=4\nf23994ca-d426-43ef-a7a1-80cb00fc8ffa=4\n337bbe16-ca66-454a-b7ae-f8d1e0c6577d=9\nb8bd6b1b-65dd-41dc-a800-bc1c84e6d654=0\n5bcdc4e7-6484-43c0-8bd1-1de4cbecc94f=1\n3bf4ff6f-c9c0-4d73-b266-b4099da82884=7\n19e4cbe9-3597-433e-87b6-f82e834b4ee4=9\n9c28a7a6-d52b-4e7e-b098-c3d8a762876e=0\nbdfa98c1-4b56-40aa-8416-4c5553184e2c=4\n7c88b503-fdce-433f-8eb3-8fcfa398a275=0\nf2dd0a80-3579-4338-862c-4832fd037a77=6\na66f0fdc-0af9-4817-aea7-e03b36796086=9\n4ecb7f88-6222-4064-b0b0-3659dd1c6b30=4\n72c7f2ee-9f70-44a6-8343-ae567de166f8=4\n14c9996a-8d37-409f-861e-bcc34b71bf6c=8\n8db74ae5-57fd-4bf3-a95f-7da50e36638e=4\n1cb50353-27ad-4415-8de4-30b28823763e=0\n58569cc8-beed-4fa9-a500-57cca9d6e409=4\n14765f2b-4fef-4768-8ea4-a0d9ae5f0630=6\nea9106a1-b2d3-4205-92ca-b615955053f4=8\ned9ba16e-4889-47c5-b6b5-27763504baba=0\ne9c36a23-05f5-4f59-950f-aa0602bd4b20=4\nd203dcc1-c58e-4e06-84bb-dbdd3294f36c=4\n571b1e3c-5473-484a-9a58-293a8815293e=8\n6d5ba44c-9599-4ace-b3f6-df94f2263727=1\ne63d9c3d-4957-49b4-9f61-f82b01befba8=4\n269e13ab-ee69-4133-8616-c61b30b583b9=4\n0d82db2a-1392-4645-83b2-baa65bf7d2e7=1\n8d53ac14-4626-46bc-9511-6c468d6af15b=8\n2d75afb1-a65c-4844-a403-028b0e68350c=0\n97a80674-2068-4835-903b-e5199056ddb1=4\n9efbf490-8aeb-4ded-bc1a-43254d2f74ff=4\n3cf671b6-82f4-435b-b541-db2b310f5313=8\n64f33bc6-0113-4279-bf48-5cc41f61a1cd=9\n0d237e10-2c2d-4e87-9154-1f8576e2811b=4\nb960e238-65da-4cf4-85c9-28773b031051=4\n60556c2d-2387-41da-ba9b-6e32392c25c0=8\na8dce326-7ef6-4fe1-ae9c-fd615282e2f2=7\nea250046-6e35-4bb7-9a26-f4fd77736b5c=2\n7232270e-fa41-4794-bfae-e3f35fcffb2e=8\n470e34db-b7e5-4c72-9dac-cd17611384da=4\n42661ceb-6f6f-4fe9-91aa-471e2542db28=9\n6da1398b-b09b-47fa-8694-d6026131da46=0\nfeff8316-429c-4cb2-b722-ddc706ac5503=4\n028f373c-f50a-427b-b81d-fb90b73d7460=4\n55776042-4561-47a0-9ac1-c403d75d5af1=9\n003fef06-dcbe-4562-8ccd-8531c910a935=0\n447cb319-9fb4-43d2-89b8-29ca4bf930c0=9\n5db43b0b-3ef1-442a-bac5-7a8eed0596b8=1\na8151f8e-3568-4418-9738-22e4964c77f1=1\n41f926ed-2332-40f7-8088-783316150227=8\n89e354e2-457b-44ed-a7c6-21ea54317913=8\n32c76e7f-b5b2-4383-9ac2-da857d0716d5=0\nfdee9028-5411-44ef-ae46-857cb08c7547=4\na6fd4391-56e4-4d5b-8648-b5889a190c0e=8\nd846b809-1ba6-4d99-9279-8ff76e2418c3=0\n93446d9d-2fbc-4b31-ade3-dd8dbb941811=4\n7a96eba2-f835-4def-9131-97dcb3485cf1=9\nd676362b-0d33-45cb-8f56-1c4248de8779=8\n22446f3d-2698-4b91-b9e9-2e016e8d65c8=9\nefb53ad1-6dc4-4f8b-9c5c-bf272c9f39e3=4\n568dc763-f347-4036-911f-aedb1bcaea72=4\n259929ce-b0b5-4c16-be7f-27c83886693b=6\n9731a5ac-de9b-4a12-a07f-be37f3770228=0\n9d09950c-2cdc-4ed5-8af9-01b4a9dc6d44=4\ncb28ece8-df64-4855-8550-2d2a5a7d4ac4=9\n61fbd072-a23b-45fb-b270-c5eaa9025815=9\n0e70e3fa-15c4-4145-a831-ac20c7bd3ff8=1\ndbfbf175-4375-4186-8b90-c41a2625c77b=9\nde3ef4b6-624c-4517-a8d8-b8f800762e77=1\n3651ed5c-d3c8-4fe2-9158-921711f102b3=0\n8c547644-8539-460b-b339-50134ee852e3=8\n4def3d82-df5e-4858-be20-7edb2943b384=1\na742bfe5-4e28-407d-8e8f-6f516482cbdf=9\n52494233-40d8-4b6e-9aaa-006e46fdfd0f=1\n210a89c5-e51d-4ef9-a906-c6aa56e50518=1\ndad9bf1a-1936-4023-9cd4-4dce84142d7d=4\n2d7d8230-cc11-4150-addf-6578864a4e76=4\n1ae93607-0710-4814-a3f9-4497eca111f6=0\n8a2c0d37-3f81-43c5-92ff-0b5e75d551e3=9\nd0a052e5-0cca-4d3f-acef-3f89e5bded1a=1\ncb25a9a6-f9c1-4a4f-85fd-70c689d12c5a=0\na8c0cf18-3dfd-4f60-bbe8-73c6875dca4c=1\n39161e02-f0a8-4860-ba3e-9c6cfa6262d4=4\nc39397ed-c45e-4ba3-af79-cba73ab346c1=9\n04f75c86-e65e-4f10-8f8d-315137dc577b=9\n8e95e358-ba6e-42a6-9f7e-6387b10700db=4\n587fa02c-3c39-432d-8252-4f3d6ab352e7=6\n4dac58e3-5120-4320-a846-21fab18859cf=4\n24c8f8f8-9db3-4878-b8ea-530dbe583196=0\nb0049fc1-7de9-4da7-be88-8b7116f9f26d=9\n83d938b8-099f-4d9f-856e-305f4001ba49=2\nc6b99413-5d25-450b-a5fb-36a64364899e=4\n96dcecb9-74f7-4402-8877-29924efdf06a=4\ncc544cde-fbff-4c90-8e43-e0741a351d18=7\n608b21d9-260b-4cc1-ba58-e75d5fcf3852=0\n6924fa62-1185-4cc7-939e-b94762e7c7ad=4\nc9b6ef54-28b8-4488-8fd2-944d383e9696=4\n8adfdebe-298c-4931-847f-cdb6b53cd845=4\nebeb97f6-7ad8-4f13-92ef-1d82c080624f=4\n610d2d85-2e41-4e7b-b8d1-a6d8de933ae6=4\n0947d879-66d8-46ba-abfa-a064ecaa0a3d=4\n26962ba1-b9b2-4c8f-bfd4-17593bcae818=0\n290fe86a-7c1f-4420-bc97-e2d19b81e8d9=4\nc594607a-7191-41bc-a4cf-20fd9312989c=1\n5a51f407-473a-4b9c-a3fd-afc6fca557b0=9\naf4df709-c145-44f1-a653-8a0e86760b5a=4\n1f5a1157-3602-418e-8ef2-6d562bbf9257=0\n8e185383-7894-4dfc-a311-26b6012186fd=4\n393c5c55-e38a-44de-97e5-16984cc24147=4\n4a981870-0951-48e3-b1ad-e232f7018fe6=4\n15fb2f49-f61a-437a-8562-ee83d116d74a=4\n8756f0d4-7662-4640-9485-1e9d72eea92f=2\na250b185-0e78-418d-8abb-8182b41acb69=9\ndf17ad2b-2233-4126-8e25-8cb9facfbcfa=0\nc283fc70-4734-4424-a66f-12a3d162d526=0\n8260cbce-bca5-4516-9b28-2fcd4e9ea14d=4\n5bce9382-cdd6-4df7-859d-5b116317e77d=1\ndaf2c406-a0fc-49c6-b268-5faaf1e5fa54=6\na956af6b-8ac2-41e1-9825-58c2eddf2940=4\na703fb7a-e41f-458b-bc27-765b2147bb1d=4\n1eb25fc6-2303-4a59-b72d-140765625269=4\nc0421296-5265-427f-8f7b-3f1929d067fa=1\n389673ca-e8db-449e-a352-3fef8bb66a3a=4\nf8b2577b-af5e-4a04-a3a2-f6d3d6754fdf=4\neeade586-5e59-40b1-8f66-ae7dc3cd5a8d=1\n912ae6c0-61ad-45af-b696-d21134a78fdc=6\n874e18d6-fb5c-45a5-9457-d4e5d56a190b=4\n4bf401ab-5ab9-4fb6-9875-2ed60a36eeae=1\n32f5fd57-6189-40ba-8281-3ce23f2d7b74=4\n3bf15fe2-c1f8-45e1-9001-a9bf9a1fbe58=4\n6c40e40a-cc1f-490c-901c-476b73ee6720=9\n29b11700-36ba-45bf-bdcb-244be2217986=4\naff690ef-11fa-4f16-a821-dd925cb35876=4\n504196db-9e25-499a-ae47-806befbeaefb=6\n887e2b52-85c4-480b-921c-29e33eccde60=6\ne369561e-b053-4920-9392-822971ca4a0b=4\n4ce25bd3-5723-4184-bde2-864659ed821b=4\n6336ea6e-436a-4cba-8704-9fbcadef480f=8\nc20f41bf-abda-4471-9594-5ec027cebcc9=1\n8d23717d-43e4-4094-b5e6-6376099abe3f=7\nb3401466-b355-4009-a9a6-56bde508db9d=8\n4216e41b-baeb-4160-9654-47656cc66e70=4\nf63e3a9c-d2f7-496e-be09-8f79587ff5d5=1\nb03b9124-b053-4d8d-9f9b-013903c113be=4\n6ee2b484-597e-4415-95d1-4ca95480c875=4\n3471fd5b-b396-442a-944e-5e36c493874b=4\n3d8930c8-c51f-49b8-b78d-48fdcb2139f9=1\n49031985-db68-443f-81c3-264200f24016=4\n762e7271-297b-497d-8ba7-66761ee72c03=6\n0b7ee3f3-3c6d-444b-b650-56292b042244=9\n652884bb-fc01-4044-b9b4-93ad40bc0a48=0\n4a8d7c60-5eb3-4bce-89cf-f3e6006f948b=4\na5ae484c-e728-4632-a09a-a18e071343e0=8\n9ad10104-8eb9-4108-a472-757f330d462d=1\n79bfa05a-e22f-4300-baef-d38eb41b3b73=1\nd0bc686a-ec13-4c22-a3b2-100fc923a59a=6\n9a51525f-d53e-4e49-8876-d330ddad41fb=7\n4127eab8-a816-495a-897c-56797c852118=6\ndeeb7e1a-673d-4dd3-b14e-c57237564cd0=7\n2598a951-f0cb-4c29-ac99-475a0839c6d7=1\n6ddfa6e2-03eb-4aa3-86c8-8d3251f513f2=9\n6832c494-0d34-4ce5-8028-52ce6bf05503=8\n6261814b-d14e-4dd0-ac53-ea518a00b3a6=1\n25169f05-712b-4488-8466-d3fa1146b517=9\nc32d02d2-3946-4040-b073-e7cc5445bfbc=4\nb59cf9be-18cb-4b6a-b5cd-0bcbca9ff506=4\n62acc505-80ca-44ae-84d8-ac2a59afee14=1\n658ca912-7e8e-40a0-adec-31ecbf6f2d85=1\ne96115df-745b-46e0-8a58-31fbb70576c0=4\n1bebaa60-a501-47f8-a820-4f1daa578179=4\nab158735-caed-4468-876d-b6d27406448a=4\nb8289c9a-8d4b-46af-bda1-d73dd651cb10=0\n25ce3b87-1511-41d9-9759-8c2314b84bf6=4\nb06fce5a-a030-4094-a82e-f9fe92bf8d7a=6\n2a2912bd-4547-4e98-bdcf-233a85fc793a=4\ndd24aa50-4904-4aac-8325-5959cc60b624=0\n2a8bae6d-0df6-4fad-b90b-7e5b5a118481=0\n4da6fb8f-12f5-4304-a641-efc2d52c9874=1\n068f1810-068e-4a7e-bafa-80b5014f987f=1\n3a3cf5b1-75f8-48f4-b903-2a485c974393=4\n26bc40df-b6ca-49ff-9162-ef63eb8b5259=7\ndd8a511f-a53a-4947-898c-f18a4fa3329d=9\n34d89c12-f62a-401f-a753-d5e668c485c7=1\n0d9a9b88-da95-4d45-9b02-fa74b247a596=4\n466e3cb4-d9a8-4efb-96b8-662eeaa70141=9\n552b384b-1987-4e7d-a39f-f8305a0e72c8=4\n76ab744b-0ea3-4355-8dba-40de27629cf8=4\nacedf320-e41c-432d-ac6a-6fbbb9de5911=8\n68f9ff7d-62e1-4974-bff1-fa58d0b9e13e=1\n48c1956e-79cc-4704-b1c2-6864ea2b1af6=8\ne1e40f6b-cb43-4c45-b328-195d09302641=4\n5edcfd6b-340c-4622-80ec-74951026eade=8\nafe79209-40bb-4081-8127-a0836f0c8e73=4\n4cffc055-be50-4553-ac73-427830296905=8\n4b888add-150d-4aa8-9a37-fec9bae5b149=6\n3ed86d42-1a01-415e-b6ec-e3575dc4c21e=9\nb745a93c-6c92-428e-a620-fa7111427aab=1\nf90d8bcf-f2c8-4a70-bb3d-865cf985f4cd=4\n219bd1f9-24a1-49c9-931e-7e8f0fb9ea31=0\n48911d8d-710d-46fc-8661-eba4bab7d582=4\n8e35a239-a24c-4a42-9739-8cf1269bccc3=8\nb9c5cbeb-4c2a-490a-a16b-a19a1b38f1d4=1\ne503ca27-875e-4ea0-be2b-f460664d6654=6\n20bf2ca0-0388-4d14-b91e-bfcac563bdd5=0\n5b5bd687-969f-479e-b5ce-8f9eacadd304=4\n5218b1cd-d401-4e71-91fc-679adc63d2ca=4\na931db4f-dae2-4a1c-9b89-f32a5256b40c=1\n0c4eb7c5-adf3-4bfd-b096-9967f0949c70=8\nc13aa0d8-660d-49ca-923b-0f0110d9e8cc=4\n433d822d-3688-4180-9b33-ae8e7a303a92=8\n7cd12e6c-41e0-42cb-93fe-f380989f2381=8\nf410f1fd-95ec-49e6-b670-2c3374c2d550=4\n1c36ee61-96ba-413b-8384-8ef90b45e7f5=1\nfe163ba6-52ac-4021-ae36-48f5097d8caa=0\ncb6d0fcb-358e-43b8-becf-8d94a4282adf=4\n919e3bca-9461-4cc5-a28d-8ba58041fd8d=6\n38c9eabc-956d-43bc-8fea-17fa8ba5e5e3=9\n4ad73c10-f5c0-4ca0-9d8b-6246fd1226c1=0\n107bce67-0f24-4775-9af7-5c954b45f3b8=4\n2f77653b-c56f-4847-8798-bf59aa99c563=9\n1803efe3-c213-474f-b023-03d948dc244b=4\nc0aeec4f-0985-4478-a8f1-eed804b35cb5=0\n564b2111-22c8-43fa-af8a-aa245d96ccaf=4\ndda49c15-94fe-4a25-a2c9-0d36fa20838c=1\n776e9a63-3226-4b11-a042-c871146b0b91=8\neadec3d1-31dc-4b7a-9448-fe1fbff92f19=8\n702048da-eabe-4f17-a6aa-7b6933d3db5b=4\n12529bba-1ecb-4e48-a219-10d5e558411d=9\n63a987ab-46e6-4bdb-9ea7-3d3764a410c0=9\nf76e16fc-f9e4-487b-b3a6-fc8e6ea36a46=4\n85931032-ad01-4fc0-b68e-20e7b468ddf0=4\n0776b4a0-a354-4eeb-9204-24db63141eae=1\n82b5ce51-d343-4df9-b8b0-047a40c4b20e=9\n5285bd41-a9ca-4d25-9b4b-df82e68e0858=0\nc8316e33-5e3a-4175-92bd-c1a87dfa2e8b=0\nb988ac98-1801-4860-9cbc-9cf15b2cc803=9\nce76be7e-491c-433f-bf15-d2acd8e8b513=4\na830f8bc-140c-417a-9157-84239ba06754=9\n8450526a-9202-4c94-8ca6-693ea87723fc=4\n3f49eefa-7fe4-4574-8696-b4247f4ff59f=4\n3e01406b-202b-41ce-948b-cb898543c22a=7\n9ff79d16-1527-45e6-9c40-16a6659d10d5=8\neec908b0-07fc-4624-bae0-6cc68cac9421=9\nd6ad77a4-1d44-4a89-a76f-b644f0b61d0e=9\n74710c15-a2f7-4567-be59-f1c128818638=9\n26f156c7-846a-4e00-aa86-1810c8c60def=4\n75fadc40-c771-423d-aaad-88a7922d25a7=9\n8543401c-b7cc-463a-a959-40040a3664b1=0\n36191a78-9f9e-4b11-88dd-3d04f090c9ee=4\nb86bbb51-e3e0-449d-8871-5259f98c5f7c=8\n5bcbd71a-3e66-4009-b4a0-ed7da23cc4b2=4\n0545df35-f835-45e0-b5de-e0bfad51c6e9=4\n4ead0c0a-414a-424b-82b3-668fe06d494d=7\n3a2c2d51-d3d5-42b0-b8ce-b304f6b6d234=1\nf9c48484-62ae-4b4a-a6d0-5cf3550f6c48=4\ne7918b88-9386-4839-af9e-53314d588e37=4\nee160af7-b4e1-408f-b1b4-45488eb4990a=7\nb19578c6-49e1-4ed6-8760-c32c9ed20a84=6\n27bc9252-30e1-4db9-bd7e-933119eae133=9\n89573c7d-e574-4f83-827b-c37929e05be6=4\n59dbf40b-2b11-4640-9b61-5c5c7730c6bf=4\n7eaab09b-7c5f-4ba6-89ac-6cba756a62c7=1\n69930cdb-836b-4355-b5e1-b6bc7a021af8=4\n39f4c10b-c264-43e9-a057-f2185ed2fd6f=1\n9bb2c6d8-217b-4fd7-a082-245080ebca50=1\ncb999698-d791-4874-984b-f33a613e4a93=4\n9e3715d9-ceca-4260-9c6f-6d672ef3a4d9=4\nab691e60-407b-477e-9316-426e08da801b=4\nee8bb77c-7473-4099-b4bf-f2eee0127b6c=6\n035f13a5-209a-4cca-93b5-5503d0f3f1a1=7\na4dc0861-3508-4d3e-b235-3d44c68ed202=1\n8c609166-93bf-47dc-92f4-c8bae9fa0e8f=4\na0fedf65-d192-4a74-a9ce-e6c5d5cc10a9=9\na484e939-88cf-4e3b-b8d5-ddf72942926c=4\n8cec4b9e-80d2-4737-9258-9398b05f3ad0=8\n336829c5-fea1-4795-ae96-22eecc0b9042=4\n2b35acd3-697f-4874-9f23-d49ba18e0cf6=0\nc38d8973-50ef-4a9a-a7d1-1ec524e4353b=4\n56258a0f-d634-4a8a-bbb9-a75f834944ca=4\n74ab5a92-0d62-4d61-a2cc-159749f1e751=4\n00c151ee-2637-4cc2-9553-a560d87b7431=1\ne1540e91-d105-4dda-815a-f654c88775b8=9\n5eb10126-2d76-46b2-9d13-78c15e606b3d=4\n100dfe47-d627-4731-b7cd-2849324ae1e8=4\nc52b9ab9-1ef6-4382-aba4-a880460ee3af=4\n94746ac2-4fff-4838-abb1-30ad3be304d5=9\n80045353-b712-4448-ba78-3808ad159165=4\n169c4fc5-26b1-4d7c-a031-dfd373ab5021=8\nf1776483-78fd-4254-b070-ccc401ade7db=4\nddbe43c6-e28d-4403-8376-110f76b3cc9c=8\n5770da10-5775-45d1-abb5-28570703788d=4\n1412fefd-7393-41eb-affa-b4a6b44b7b68=4\n6ea6bcb2-df5e-45cb-abac-87b1adc7406e=4\ne80db58d-2204-4cee-a59c-11e385e28311=4\n11d55cac-187b-4e5f-a012-467be2d1b79f=9\n97075ba1-31f4-46f5-a37f-4d43b809715b=8\n97db19b8-40af-4538-a86d-860f5fc93726=7\n1aabb2db-190b-4e23-aa7a-d56f31eff19c=7\n9940a5fb-1fc0-4610-8d87-201d8ecba674=0\nbffd2cfd-659d-4550-9027-dc8b70084d0b=4\n59a6c4e6-2ad3-4bf3-a916-2f3bf7f10ede=0\nfdbab646-a6b8-400f-87b0-e4d0ffb30779=9\n3d125778-8880-441e-a536-42f2bd417782=6\n1ba68cbd-046a-47b7-8850-3dd8d45129e4=6\na644c05d-a493-42bb-b146-daa9e454ee70=0\na86337e9-ed1e-44b8-a31a-5601c82dc634=0\n0bec7317-790e-45b1-a813-80226ad35cdf=7\n2572bd80-e6cb-4a2c-bb7d-48b495973ab6=4\ndee82331-be8a-4792-a5b6-1ec64e4ee06d=6\n7a8b9e7e-d4f3-46ec-b223-21b4bcb8ad0b=4\n78d7b002-e285-4263-be81-56b5faeb8d1c=4\na71c07ba-3ba0-4d6e-8a0e-d2b7ad3f0fb1=2\n21200160-f91e-4a79-a51d-88d863b6a77d=4\n690fd47e-1194-4170-a447-b7e97e9c436b=4\n361b8436-ea1d-4380-958d-f2d1b9183fd1=9\n20749b7e-6994-4816-bf05-cec5b4fa8131=0\nfdb8c6dd-33ba-40aa-87f7-1828bf557e24=4\n250201bf-5cad-473f-966f-d0fba7d061dc=0\n067f0238-84d6-4af6-aba2-0f10ceae625e=1\n61c9a32a-edb0-4f93-b16c-c319dba20280=9\n4b312bb2-33bc-492d-b200-9b6a98fe6d32=4\n07f2aff8-3e52-45cf-b0c6-8cc49eff2ddd=8\nc6f18414-8b0a-44f2-8513-48409c05083b=4\nb9784c02-b331-4978-a60d-fea087bf4190=4\nd2f38df1-761f-4891-874d-0da4c1ae540f=9\n3bc24163-efca-453e-9601-c8b8526146c4=0\ncb254286-250f-4c5c-a49b-bc72c2b553c6=4\n8c7f58ca-3bcc-4363-8065-7c1934384e4b=4\nfc7d84f2-ccaa-4c58-ba22-60f924af3d8a=1\nba0a17a2-c610-4581-9ef5-409470391788=4\nce6b8bad-4cee-4988-953e-0e17dfc09ebf=4\nbfd761fb-9a68-4bd8-8bac-9b0d9662d435=0\nda874a32-15f5-43af-8c0b-c92c4fe89be4=4\n84b5d7d8-5e21-49e1-940d-c85fbca33d5f=6\n2837a6ac-5f44-44de-b06c-c924d4ffe028=6\n65d154c7-d6b2-4d08-8ada-0e303cf84129=4\n398dbee6-c080-4396-85ea-96e3568ce9b2=4\nb7e1db72-d015-4a7f-8dd5-e76ce4d78093=9\nfad3a475-5a74-4e37-a670-4dd3ea4c7d2d=4\n22f07b50-d60e-4240-8cf8-d8e220f30090=9\n8791a67d-3972-43cd-8d18-bd74250737c7=4\nb1e628e8-9b9a-431b-8369-be766a42466e=8\nb0dfaf25-15b3-4be6-8173-5efa91e9d6d6=4\nc811f97e-ab75-47fe-93b0-c28ccfc1152c=4\n7e47446c-6199-4431-9a17-51a4506d0c6c=4\n88b609dc-7758-441b-9d60-45faf1781b30=4\nc0941dc8-6928-4bed-a178-fc750663ad7a=9\n098d31c0-ffeb-48f3-9110-946ee2553284=7\n1c976a88-e0a6-4f28-a128-66eb5c0da003=4\n1adf44a8-b267-486c-8871-6a53c095450f=8\ne62f5d97-af4b-4f0f-9c83-1af30468fbdc=0\n2b96b899-a134-4167-bd4d-5a595014a0dc=2\n20ed3f1e-eb2b-4b09-97c6-32a2d46599be=1\n81dacaa3-b1bb-4e1b-96f3-fdb12b731c40=9\n5ebb0550-50ed-4891-9d08-584df54b60c3=7\n022b2ea5-0e12-4ee6-a3fd-4fc39e6191fa=6\n54c18ea4-3825-4cd8-a7a9-cfbce75f378d=4\n98f80500-c2d5-4fd2-87cf-4b73a5384b2c=1\n45e867ab-b254-4ef0-a680-2a0dafd6bd7a=4\n745a2109-4d6a-481f-ab89-9bb695428c9d=4\nd9cc19b3-7188-4d35-988b-4d3a8c039ec6=0\n48a15feb-07a9-41a9-aa54-67dfab01aac2=8\n0403d1ab-1ad6-4dea-bfa3-f81bfc9016a2=7\n5517647b-e916-48d4-a517-45de5bd0e490=1\n9d20e5de-a003-49b7-8e4e-4d72327509ed=1\n662ab838-e629-4b92-8d19-6ff559db65e4=4\n1aed655c-bb17-4bed-a80d-31c176c3f959=4\n73e44723-c1d9-4538-8548-4d0fe255c7c2=4\n1aed655c-bb17-4bed-a80d-31c176c3f959=4\n2a136b29-9a30-486c-8d1a-25d3d56ed467=1\n561cd695-28cd-4f30-a633-d0f8bd9b07f7=1\nfa67f56c-71ef-46fe-a7ec-95293ab31d71=6\n401e0818-ac0f-4b9c-bc7d-d86bf813a6fb=0\n621cafa3-c144-40e6-894e-31a5118388fc=4\n250b1435-61e7-4252-8fe2-96f3fa70a67b=8\nfbdfba69-6a61-42e9-ae5a-ec67b4be61fb=0\ne6a1e1a8-4723-4f0b-942d-2e5492525b07=1\n88035498-ecc7-4033-915b-5e375c0d76ee=6\na85ac2bb-0643-4f1d-bc5a-b1a53c68c67e=1\nd445b02b-52bd-40ad-bb4e-844b5dd187db=4\nf87ba90e-70e4-4de7-8da8-139e6819fb76=4\n742cf8ae-5ead-4155-89b1-060a03b22f1c=4\nbb7f4743-e620-4751-b65a-a26742341645=0\n8b42c071-1926-4119-b469-ec93cf38804d=4\n4b8179d3-b986-4149-8daf-be0475e2d3d8=4\n06d3a58c-920b-48fe-b65c-68f988bffe3c=7\ne68f6603-8fc5-4806-a7fb-7ac24370eb1d=9\n9fab2562-872c-4057-9cd3-708f98a1b7f4=4\n37b5b89c-80a2-4691-a926-e70352877c71=0\n6808dd83-11c3-4d2e-8b38-e4cf71c09366=0\n31d83f13-6d4e-45b2-939c-2ee5310bed88=9\n324f111a-c46a-49c8-8c8c-4f64950fa5b8=7\n22aa5648-937f-482e-b044-6bdd98c6b9c8=7\n2e200675-3095-4c6d-921c-a4b3d737cc10=9\n35a3d77e-002d-4118-8b82-b7f05dd861ed=1\n88d2b0e1-5221-488d-9bd0-d95e9c26f0d8=9\n945de3f2-617f-40f7-8977-b7e624c61de1=8\neca820b4-d239-4e29-ae96-ade36d62de8b=4\n00d24aa7-1767-4f50-8f17-af15abb08539=9\n9f1e62bd-6b34-447a-abd2-5ab109b891ca=0\n3620d410-2f47-4a80-b88e-cc8510d1e096=9\ne4bdfed2-8319-43f0-a9db-01b918c1c8e3=4\n869b47f1-e82c-42de-a8fe-d13a6dffd188=4\ne9f6e767-3db1-47c0-a944-362a5fdca972=4\nf85ec379-306c-4a10-b416-f00f75ce470f=0\ndb07b3a8-5d3a-4161-83f0-e0106bb0e996=8\n6fc62b9d-8960-4a29-b373-329603c4fd5a=9\ne5481cbd-27d0-4413-acf9-41cc88b4aab8=4\nc5906224-08ea-46cb-9902-2f315a16f07a=4\n3e364605-6769-4512-a19e-9c4093974b16=4\n977d90a4-59b8-4e11-a7f2-4b3d1dad0c7a=9\n8cf24747-6a3e-49eb-bde4-75241bf448c7=4\n40d3049d-7b00-449e-bd96-f152ccdf8035=0\nf2b9ef95-13be-45c4-9967-c0e974389488=9\n3cd00d60-6956-4a84-9b00-667aa9f817f6=4\nbcb881fb-4bc0-46e6-b0f9-a36c65e30260=4\n94e12809-2d63-4288-8d77-4ea54effebb8=4\nd3edcf89-bf35-4bc8-be82-c70988580f57=0\nb4f2674d-8728-4215-9fba-502709e95355=4\n7f01b4a5-bbfc-4fda-a36e-60ffd590d225=6\n2272bd41-6326-4f33-8ce2-57f5c9b0c6d0=9\nbd2bdc6b-1348-45c1-9a7c-2103351e3763=4\n2454210a-9afc-4df4-9031-4eb97e2ffa80=9\nb248c762-9fdc-478a-bc41-5ec5ffced63d=4\n92c96e44-dec5-4e11-bb98-cf04b4223afe=8\n7d550410-dcae-4bf8-aa8b-1e8a1cccc92d=8\n2d65b19a-c061-4884-8195-b73994923c43=9\n7590723c-177a-4de7-98ab-530a64a3658c=4\n97d1a1a9-bca9-4d08-bf34-695d97ed7649=8\n9ea137c5-7a1e-41f5-bb5a-9e38e7bc2851=8\n7c80458f-dd7d-496d-8984-0439d0849f93=4\nccc69183-55a4-4bd4-944e-57254629ed0f=4\n6032bc40-187d-4be5-8323-d0daaf01d7de=7\n9d37659c-4d70-4024-90a5-8b6cbc8dc9a2=4\n33293992-9f94-4fbb-a3bc-e53ddbcad445=6\n2a979c8b-fc6d-43bb-a324-bc31f1efcc63=7\nd47b55f5-b2d3-4681-adec-0f0bb61a00ec=1\n61317886-388b-48e1-916f-2f18a1a829b0=1\nfa346ff8-2b07-46ab-972b-cba2df7d20d5=4\n797daf18-8b72-4246-a517-e07031e4c26d=8\n2781100a-9f58-4aa8-904d-aea1f07f8d8b=4\n00247569-cf9c-492e-830a-a7aa0869f5ec=0\nb7a42794-c19a-45e7-a839-b3f842369626=9\n47bbcb08-f846-4215-ac47-020e5d0d20ec=0\nd194cc04-761f-4a57-9c64-084772ccf76b=4\nd7c119e5-a21e-44ec-87c4-506993d2f88c=8\n724692a9-588e-4a1c-8c36-bf5e067ceebb=0\n5df6640d-c7ea-4e96-a256-1d194cb84783=0\n165056f3-6589-4621-ad99-641018f6a9d7=7\n7c7a038e-6250-4169-add9-81bc7a704636=1\nb1ec9be9-eee5-495f-9d4d-8ed24b332f5b=8\nf72271d5-9537-4576-892d-7d006b1ff7e5=8\n15dc6463-15aa-476b-b670-6d5a6286b213=4\n041b5c4b-51e7-4e63-b441-5779fec003fb=4\nfa3d5e17-e2b4-4131-aabd-6ee49fae19a9=9\n44cca89b-fa18-41a7-a751-de1a5737f9fc=1\nf40c7b36-7a7d-43bf-8e63-a98fb5041a3c=0\n86d3d31d-6add-44d8-9480-aff39ff093d4=4\nb23c0766-d64a-47d9-9ffc-bf7f2d83ed81=9\n4a81bc60-58f8-4412-839c-aa93d213361f=1\n74109736-df98-4c38-a884-d688847b58b6=7\n7b656542-82e1-4701-bbc1-1d4daead759f=1\nd2758f85-816a-44aa-81cf-e4b2abeef96e=4\nfd10dfae-34e7-4b06-a71b-0bd0b09d6ca3=8\nd9850130-d23a-4d01-9f68-bc24414a5caa=4\n805c87fb-484c-4850-8b97-7dc8bdead6cd=8\nae851e5a-0bab-4c1d-b20c-269fdc57d275=9\nf27ee8a0-ed52-417b-b5f6-1b437463a2f2=1\nc818a5c2-0ce7-4026-abfd-1864954b415b=1\nfeba66d5-c0ee-48f0-be2b-b2622d433843=9\naf65ccf1-1226-4e53-9967-8d301ec81f0f=0\n5e2433f8-0803-4197-a240-d5b5acdd5777=4\n116fc4b3-6a45-4254-af2d-ae48ddd168e2=8\n2dbc3614-ed1d-43c3-b65d-220b24c9c04c=1\nc9826a8d-b08b-4164-a0cb-421a8412606b=9\n93f27556-cd38-47f7-87f0-5ff043046e38=1\nfe7ab5f7-1d2a-4eab-85c3-96deb2145fff=6\ne0e8699c-4d6f-4636-96f1-98acc777db78=4\ndc3389c0-67ba-497d-8e2b-d75f2da3e974=7\nd2a28f0f-ac0d-4418-9dac-9baf25c1033f=4\n5d0c90a9-6af1-42d1-90b8-45514a99f740=1\n481cd014-7aa6-43b8-83ff-3826ab6be9d3=4\ncddd7c99-3d6f-4473-9f77-2f8e01003da3=4\nc0d3b0f2-d1a8-4470-ae1b-fdc6124cef09=4\nadfff8a3-e2ea-4837-812b-1a98b9e6d598=4\n1422380b-c364-4616-8015-822861e81e82=9\n57a7c6b9-2800-4323-a07c-54acee5917a0=0\nb057cec4-1d2e-4f85-a774-f1f745f08d2a=8\n4b298e8e-bf5e-47b4-8dd5-f1b16dccf641=4\nbd56e532-fb66-450a-a9e4-a28a46d8fd79=7\na04ecfa8-cd4e-4d2c-bf9a-2c739023b7f0=4\n536374da-89ba-4f03-95e9-f92f3e736222=4\n05a08318-0605-4afa-be22-8a96b47921c9=4\na7811936-a216-4b12-b676-a57845548a2e=9\n6524652e-8f97-4ab8-bc93-47293396d4a2=9\ne5d542e0-5dea-4e6c-bb32-26633ecb3cd8=9\n708853cb-e2fe-4429-8ccf-625fc5cd24e1=6\ne0399ac5-f4b9-456d-bc4b-d97bf42092cf=0\n0e69929d-2361-4ee6-84dd-b44a243dab62=9\nd250db5f-8c3c-43c3-b2a5-c8cac12c575f=6\n3af50b41-dbc5-426f-a6d6-7db672393b9b=7\n98217cbb-706f-4797-a3d9-bc958461b23b=8\nb2c1d222-0217-4d71-a6a2-f33de03015cf=0\n047df864-1099-49bd-961b-9d821326e67a=9\ndbdce55c-7f7b-4d39-b45d-27b0d3c59786=4\n3b66dfbf-7ba2-479f-847f-bfd0ab9ba5c4=4\n72048ba9-b550-4f6f-b939-12d42a92c3c5=4\n2919723e-0f49-4674-946f-cb873cc8e4ff=4\n9700f0e3-1505-4cd9-8f72-a000a2dddf91=0\nc7194cc0-7517-4fbc-afdc-e9292054d13d=0\n5dc59275-87a5-4ccd-9d70-09f19fd60a35=4\naf5bafa9-20cc-44ea-b6f8-e12093fc64ec=0\n19021f02-f671-4546-b1b8-8c84c24508ea=1\nb4cbdfb0-3e41-4ff6-bb69-86b78f6d590c=9\n791941b7-f65b-4678-a2c5-5df61d1ee58a=4\n31eb2a0c-8e36-4ab6-934e-0ef088011caa=9\n919c3569-83ea-40a6-a9ce-7cfb5847d67f=7\ndf25c404-7a1f-4285-a6ce-be8cf123d4b0=4\ndcd40c03-4963-4c5a-a912-0c18cb2ec47e=0\ndc5352ff-fb1b-4f37-b67a-1b5d932c1685=9\n461c3eb9-6dbf-4d98-9b76-197a6b56dfc0=9\n7c1833fa-a66c-4945-adb4-98777b456ab5=4\n947822f3-50ce-4424-abe8-51e8692da780=0\n327ac4eb-909a-41f7-ba36-9b1339a0d32c=9\ndd8490a7-a408-4c06-8541-fdcf4ee59da4=0\n02b5e498-c2be-4271-9f72-e0f2ef0db610=8\n038fc13d-229b-4aac-a66c-837f06741680=9\n62f2b0f5-ba63-497b-b124-dc5bd26b6b47=4\n2bd50b90-172b-4fb5-ace6-3131b93f8b75=9\n360b9d45-c8ef-4dc3-8c0f-d3000c74c0a5=4\nfdaa6478-db56-4a2c-b552-8e8cd1e7ae4e=4\n6c34a048-6c03-485c-b2db-ad09fe5a3696=4\nd54ceb24-76fb-44e9-8c61-923ea476f45c=4\n9cc5cf3d-e041-4f82-b4d8-4e15de953acf=9\nf1479304-dfe8-4700-8f62-dd834f5ca662=7\n114faf95-3396-4948-adb3-3d73638e5bd3=6\n1a0fe918-b14a-485c-856b-dd738308d312=4\neca6f76a-3665-456f-a8c0-b2650858bf2e=4\n441ff288-9f72-419f-91af-01838ece1b54=4\n4f224d5d-1e12-44ef-93fc-4ab36e68cce0=4\nd282fe78-30fc-4c19-be42-69c0d7ce6649=0\nb02e933c-534b-4118-bee8-d2c9d4238136=0\ne7509248-7cf4-4408-8bae-03dfcb987496=4\na4292bb0-d5d1-442b-bc51-32111d352db0=7\n927c4f36-0793-4d47-be73-8ab919d6500f=4\n8f0eb2e6-a5aa-4750-b3b4-121201e32c32=9\naebc6754-dd86-471e-baf0-7cf7c85e6060=8\nd0b438ac-4edb-43fa-a97e-fca3ae70cf37=1\n727803e7-6f67-403e-905a-555de1e1ee99=0\na41ad484-c3d1-4e33-888f-7743aa68d0c1=9\n9d99d178-7a49-4acb-b245-7b018bdf24cb=4\ne3fd3746-4c6b-40b8-9604-358365b54ccd=1\nf231836c-a563-4b2c-945d-7694f72a25b9=2\nb724c3ef-3479-4a8f-a475-786e0e75e8d0=1\n615204cd-6711-466b-8a49-9b0a6d27c92a=1\ne97e99ce-1f95-41e2-bef1-cb3dc210369c=4\nd93af59e-51b9-4b07-85ce-2f846460d946=4\n2842ec6e-a599-4662-9847-2a1edbb9619b=6\n537bc9db-a22e-44cf-a91f-cf646f2554f0=1\nb3fdb098-0ccc-463b-8735-2e1d530b1cc8=2\n1be6d1ad-fa3f-462f-8d6b-eb58c9b3ca18=4\n9c5a1c2e-76e9-4e09-81ff-e975f0ea1b3c=1\n55b2668a-a120-4ff3-9285-b07c77106063=8\n6945ed5a-f584-431b-9425-932b79291f20=4\naca94e32-368f-4e9e-b81f-2d3944a9cfa4=4\n2d9d691b-e730-4ac6-b648-3ee1efbe0833=1\n365d7511-0785-4b4b-8c29-c7838fe0cdc5=4\na4e57138-9263-4e11-8431-a12b5c1137b7=0\n0b21d060-74f3-4942-bae1-bff82700cc10=4\nbdd77244-f390-4c49-b6a5-c015296afdcc=4\nb4abb1fb-b8b7-4323-8b3c-893fc5389fb1=0\n38224714-77ba-44fc-b96d-bbcff690bd58=1\n563c20e5-697c-44ac-b853-2826802e0f32=0\nb93bdd18-6354-49eb-8fc1-65fceb52d4aa=2\n6881da7b-326c-4340-b64d-c9afec312459=8\n2787ff30-7765-4109-8fca-b563824568cd=4\na4a291fb-e8e2-4a86-b42e-e7f7195b8ac0=7\n7b9e7dd6-8102-4edb-bc74-ab710b4ed89a=7\n1fbf3f3e-d953-4577-9987-6013179bc9e5=9\nf194f0c5-ca25-4fa8-8dbf-dfbd2fa4b1e8=0\nd94596ed-a59e-4fca-9f8a-c5d26a6ede50=9\nbed82735-420b-43ce-9523-6bcce0217b82=4\n6c9af535-4c0f-45f4-87fe-05d8f3490aa2=7\nfc67170c-d589-46b5-a2ed-1fb9935f8b17=1\n315e470d-f6d3-4393-a0c2-8d283f5f3a60=7\n9119bede-0379-42a8-abc1-09476dcb9fd5=6\nd93e6d58-e841-440b-867a-ce185b15fbfe=8\n5db9c38b-b989-46db-87a1-9c212b2fa740=8\nc5bd1383-055b-466f-b705-33af55570f14=4\n0befffda-0b8d-40e3-8f7f-a97a58418570=1\n1d7815df-0503-4395-8771-8e7f0707a799=4\n8bed0816-a85f-4133-bdec-fd5e4db99e41=9\n3ea0b86c-f0a3-4349-a3e6-70ecd8733203=1\n2f13c220-85b8-4cd3-a364-b135e2962921=4\n5e6298cf-736c-44ea-8341-d411d40c8e04=9\n7d8b95e7-1a0c-43ab-b2fd-43d0fa61bdbc=9\naf9edfed-6f38-4445-a94c-bb6a12331196=1\n6d6b0091-01c7-426d-a56d-6552fc154b68=1\ne6b30b86-9ad4-4996-9672-4505d5afac84=0\nac010ef5-eddf-4bd7-b327-b7a51ff33455=4\nb4e83cd2-900b-43e3-9cb9-d7ee99c803a2=8\n2bf021b7-6903-46eb-a07e-49ab12f657a5=8\ndf9660b2-1f9e-4df8-8fac-1310d909ceea=4\n2166b7dc-0b55-44b0-ade5-b65b9e7aa12c=4\neb3cf252-94f3-485c-a2d9-1156aadc5027=4\n748e637f-563f-41c5-838d-1ec3912d1570=1\n8ac16a2e-b2da-418c-9fd8-3381fddcefb3=1\n44fa8ccd-7e0f-4250-a73d-3a587f1379ad=8\nbff5db67-999b-44b0-b9e0-b77c159cc259=4\n28c73b81-07fd-427d-9bb5-8b18c8f96be0=8\nf3d20950-f702-4bf7-bce5-1dd0b15f0f0d=0\nb7e82e3b-bd58-4fa3-9cec-3dc8f9cdc272=9\n6c8fd25c-9069-4bbb-a7cd-cb0f2c5f440c=4\naf044613-7b29-45ec-b286-7825cc625989=4\n82cbc93e-8f32-456b-9ac6-1258b7fd426b=0\nd72b1cbc-91a1-4ef3-8a78-774144300304=4\nc1a36e19-2c8f-4fd0-8e45-e83476eee021=4\n9f047276-d543-455a-b36f-9d30782af5c3=4\n9020333c-f8f9-4d23-b07b-81e594f20c1f=0\n45dd49cd-5b02-46f9-bbf0-b9cf584d7314=0\n8395adf4-b8c4-4a47-b4b6-090ab85c568c=4\n39bae57d-ffd1-42bb-89df-6903223f17d0=0\n3a5d991d-1ca7-4587-9ed0-0fa4bda7ecd3=9\n4fbe6447-33a2-4a48-8e1a-00f755e437fd=7\n3f0b512e-fa1c-4439-91a4-1579eaf0208f=4\nc07738e1-6da9-4bfa-b8ed-1b7d07aa5656=6\n7709da18-9a4e-4997-8ca8-2a19737dde59=4\n53effcc2-8bec-4c2f-886c-e02f9d653615=8\nd332881d-5a59-423b-926a-4bd4ee814240=1\nee9a13f9-bf37-4153-8081-82bef3257e01=4\n39315d71-ec69-4caa-bb75-8489121c1ec6=9\n96cff9c4-e266-4a84-b9a0-21b3019994bf=2\na55eb84c-98c6-4b43-b0ea-aeabfcf9278b=7\n1e9d6847-81df-4933-a78d-c2fa38d63f96=9\n3f4d9a27-2de6-4dd7-b97f-bb82e3786646=4\n415d807e-a33d-46cc-8f85-e3b08f942ec7=7\n64c20e43-bf53-4555-8c83-859a035a0149=4\nd035bb38-58f7-4e79-bf52-c50fbb938f2c=2\n87090878-0509-4134-952d-4b0aefa6cc45=7\nfc669867-aba9-405b-9a6f-23f029dd6cb9=0\nb2284643-c7dd-4460-a07c-43c0754d3068=9\n826d3535-08c1-4d30-ac89-100ec2d643b4=4\n6634217c-a407-4da6-9279-b2f4efdabbab=4\n74390268-d654-4670-9b45-851fcf569e33=9\n07aba2a9-b702-4a80-8b02-b34ea791ad9c=1\n4f188c0d-0eaf-405b-b15a-e72a4e756bff=4\na8f5488d-88bd-47a4-996b-468267dae55f=4\n039aa1f3-c245-467a-b04a-34b32070fd76=1\n1c821b00-2481-403d-ba75-00c4531073d3=4\n541e8e34-0d3e-4399-aef9-5658a7f6a45a=0\nff181b83-4732-4f22-a9fe-8e02e6d8bc92=4\n8a536420-2103-4421-8b1b-f0a4805d99f3=1\nc94212a3-0fda-4f5c-9d39-20ffb737fe98=8\n62ec1ebf-f331-444f-b1b8-99db35483b1b=1\n10ec283b-6244-4f4d-829b-9004abf71f48=6\n29681abd-ad99-48ce-a8a6-98e66f7ffe61=4\na6bbcd66-f0ce-407d-9d34-7a0e9579cecb=1\nb3779cab-7d47-4277-b9d4-c8a0b6094fef=4\n16c8ede4-508f-4708-83f6-daea7841ad69=0\n59e0ece3-1174-4291-b4df-d2ddb1a2fdad=9\ncb69be2f-dbb3-4f8f-adb7-1e02dece9f26=0\nfe2e544b-e082-447f-90e1-ff8ce19c4471=1\n708354f4-08ae-4f41-8372-9c0fdc35ddf2=1\na13caa10-6999-4837-9eca-bb4048f93fd3=4\n17a2b41a-8920-46cc-bb42-1a23fb1243d1=9\nfcf5c686-88af-4849-b6f8-b0116c6ecdb3=4\n002bbf84-1f82-437b-aa00-21a480414ca5=9\n698f192e-81db-4d86-b8b3-96ab7b80ffb8=1\nf9421acf-d76b-4034-998d-9d3e8b399d54=0\n50161ef5-a0d9-485b-bcbe-f49be0faa7cc=4\n4815700b-ce83-46e2-8e9f-a9def2f9abd7=4\neb2d7872-c194-404f-a6d7-2a4058433cec=4\n928c01e4-0f43-4160-8ce6-09553a8fdf96=4\n60e48e9c-5507-4d74-90f8-c292ba1de603=4\n98160ce4-cafa-4d88-9139-3d2204dfd072=4\ne7b72f6f-75e0-4f99-a205-6c9ba7fbb812=4\n7402c7be-01ad-46f9-9987-b9264f9a11a2=4\n0b030227-75e3-4910-bed6-e16af66ca88a=4\n9101b136-fce1-41d9-81f9-6f4aab172f0b=0\n217bf5ac-018c-4bff-9e6a-386ba918323c=6\n7fd0f056-551c-464c-b8b4-c33b42a812f7=4\nd5850820-5333-4a33-90b9-e28f5d8bd2a9=9\n7ab4f1a8-5b2d-4647-a8ab-9c7ebfa2b7dc=2\n794d8b44-1e5e-40c9-a159-808150659a3b=4\n6ce2574b-a615-4b04-b6bf-635dc5489e8c=4\nbd9ae1a9-dc86-49c8-8496-6f81207aab6e=9\n4a98e5b7-95d9-46d2-aa4d-e685233b4094=9\nf95b7789-f677-4fef-acca-780fc90ada30=4\n24116765-7764-41a3-947a-4c50b36388d2=1\n2d4e3f1c-15f6-4cd3-b538-092b1bbca47f=9\nb74ea9fc-4365-4581-8c97-7104e882689a=4\nc242c349-b1f6-48ac-98e6-1f4c2c84c86e=0\nedb6c112-3d1f-4a2c-a174-9a41776b6550=8\n8f55a3a8-3867-4aa4-897d-263ae4e6de71=4\nea24d2be-5c93-45c8-8dcb-165ec49fcc57=9\nb3e3a696-18c1-4b6c-9db4-06f501f13228=1\n253e21c7-75d0-4162-90f6-921b4c927366=4\n64ade23e-dd07-4244-b569-e9ecd028d484=4\nb1392c0f-9b7c-469e-abf7-250f74c367c1=4\nc6c1ae36-9659-4dbb-bebf-46d50d7926d4=9\n9a9c4d64-4160-465a-bba1-042d3a0d1a76=0\n32351ded-8f38-4c70-84d5-791f709d3c28=0\ndb6049a5-32f6-4eb7-8e30-d1744a59c41a=4\ne960e9ff-8833-4cf2-9074-226d8a12ba91=1\nb7097a6a-9564-4728-b4d8-65ca1fa07651=0\n8b1e9bab-f8fb-45a0-aa4c-4238b4819270=1\n2fca5bd7-a20a-4c39-bf7e-97faacf0cf5d=4\nd46fb064-bdc2-4c6b-ad1c-e3348ef2b8c5=6\nbe1e9423-0a43-447f-92f8-f8bd62ed20a8=9\n6f8e5b29-0961-4c65-a8ea-d493ee8d8668=7\n4021c4b9-0d39-4e6b-8195-81bfb467bdf6=7\na0d7774a-5636-4f87-b3fa-f9e2d89df858=7\nb815751a-54d5-4b07-83b5-07d3b32e4ac6=1\n0b2e33d7-630b-4eb9-a097-8bcac872d5e6=8\nb42939c4-497a-4031-9746-776fd71687f3=7\n0a42ed20-af6e-412a-8000-ea4980543e66=4\nc4c2944e-f7ac-4468-b28f-b7bc8704bf9d=4\n4a4fac60-0811-423b-9123-68fbea308869=0\nb2cbf138-a086-4e61-9ae2-d0b57a73127b=4\ne2922c68-be9b-4790-9e85-843fa35dee0c=4\n79340cf0-0883-4bd4-a0dc-cc0ef6b9321d=8\n75b3f75d-d9ce-4790-8ca2-9bad98d71d20=4\nea130601-d83f-4624-b685-60f36e3f602b=7\neffe0ad6-7052-4366-9fab-cfa687d16aa9=4\na92bc87a-7134-4356-80e2-19bda3255c1e=9\n455ba35d-380f-4d62-b5c9-9039fd4adbab=8\nfb979cd0-3243-4d1c-b638-8e4c3e0f506b=9\n20f4b57d-3e36-49b4-8ea7-249a2713796a=2\nc3b1cb20-8ba0-4fb1-abb0-c0378357cdb9=4\na0a12ee7-59d9-4b92-90c5-73d6385fc776=4\n1f7bcd31-ebf7-4320-bae6-121c4ca9d2ec=1\n2e0cc3a7-a7c3-4eec-b2ce-1d074821b143=4\nb2563194-464d-4acd-9ffb-56fa36cd61cd=4\n61253d6c-97e1-4576-880e-112cc1db41ab=1\nb8cbd564-eb2f-4f75-a462-7b97732c9a93=4\n9e532444-2177-4c93-9b63-e30859db1d53=4\nbea86d69-b032-4309-87e2-7f13a9abac8f=0\n363f1e1c-807d-4eb5-9400-a27858dadf26=4\n39d948a6-372c-4f86-bdb0-6acafa60df5a=7\nfecac759-3774-4019-bb6a-d616a2c6e1b5=0\n26b542e3-9c17-4cb5-b836-7a1d8d6cbabd=8\n25893932-81ca-422d-8ea4-22d62c6bf380=9\nab3099fc-831d-4bad-81a4-fcb758a9b454=7\n67918c0a-32d5-40ca-b242-68c6a92c18f5=4\nd8aa305e-264d-49b8-84ca-aaec79594666=4\n99e69619-16cc-4c7e-b529-03eacd66d3f6=8\n9109ee2d-c4f8-42cc-a8ac-857cd9077336=4\n26c6d87f-a1b1-46ce-a074-b7a759836d2d=9\n99c4ff6c-7841-4c52-afd4-22050b4da6c6=4\n174dfd8f-f527-42bb-8d9e-b222c5e8f909=1\n960baa44-0726-4be3-820b-4d5160a5b997=4\nf7a30b9e-88ca-4ca9-a11e-65d335a68f8d=1\n8ab389cb-f3c3-4e66-a234-a0241fd586da=4\nb2fafc13-b943-49d3-a83b-8548420ae00e=9\n16b848ac-8b33-4c5f-83f3-826dec032d18=9\n8068c5d7-6d79-4a84-b8fd-d24b0dba5bd6=6\n24100b2b-8f7d-4074-b34f-7f3e64a9b01f=4\n9974245c-9a05-4f21-9936-3e5e5b7a8bea=4\nf5e0469b-026f-40f6-a3a6-55750e8dd3ca=1\n3dcce25e-7878-438a-a6e0-0274d6b905fb=1\n055dec4f-02e8-426e-9964-567314f38a36=4\n2abd835d-6813-43d1-a0a9-f6e748125195=1\n4afb0252-0323-46fb-a602-824cf4f1f8c4=1\n64dc0886-0662-4140-8be3-3abfd030c1d1=9\n04ccbc75-bf4f-4adc-b815-6ce74bab666d=4\naa013e0b-021d-47a5-b548-84cb027a7c73=0\n941d20ea-84b3-43a6-a7dc-de2acfe413f6=1\nae8520a5-f463-4e74-b9fd-20be6801c7dc=4\ne718982e-ee61-4d94-a6c4-cf676cb0b145=4\n2dae75ea-b0a7-462a-bfda-4be61cc6a533=1\ne3fce377-e82d-4e24-a9a1-aef30ef727f8=1\nb2bba4ad-43b5-496d-9bfa-028400e50134=9\nac9bbc8d-f831-4149-8d13-062d86e6bf43=1\ne8b186c7-d79e-499f-ac0f-e705aaca3222=9\n261fb567-b570-48cf-aa9c-4324ba933b03=4\nc21d32b4-f5c1-40bc-81f7-a8417d0c68b6=0\nde11d847-8c1f-4549-a8fe-32436390bfaa=4\n10d80a81-687a-4df8-9b35-50ef106052d3=9\nf06116d9-5743-4ed1-af2a-9d7aa5f760b0=4\n5fd0eba7-7f2b-49ab-ab83-560962749727=4\n35705b65-6def-4bba-91a1-63c7d8936b01=1\nb65c1051-7a67-4ce7-83d6-38b1c065ccc2=4\n7375aece-9ca9-4c53-a815-66b0561a5b6c=0\n90543e34-de67-4554-bc55-59f796b60252=1\nbb0ff236-0bd4-4c71-bdff-95431338c4fc=4\n06711b9a-7a0e-4fc5-b91c-8701e812e1d8=9\nf6b6405b-b475-41c9-bf13-784162d3395b=4\n060246e5-820d-4fde-8615-4b30f099dff9=4\nadfe551a-d4e5-44ae-800a-5c3aa431e2d8=4\n1293e872-1743-4ae5-b084-7aeadaab9446=9\n2070dc50-5d06-471d-a5ae-122a71feb0b9=2\n2e6d1714-5d2b-4d5b-98d5-80daa3fff6e1=9\n263027ee-e15f-43b2-ac2b-d6624e682644=4\n7b2cf85c-0c90-4cf4-aa35-20a0c82d4250=1\n6a6c7053-18f8-4dee-8f43-63f32f166ddb=4\n461c7832-8a1e-49b9-b314-fe3a9066d6e9=4\n7f3cb601-3cde-4d8a-b836-142bafbfd6d3=4\n0a011fd2-f714-4c4c-9b0b-602a9a96cf11=8\na92a7621-6d21-42f8-887d-c99b54198618=4\n4b6794d1-1650-4f18-bb87-80d5e41b47e0=1\nad621c77-c825-427c-8e68-7151fec00652=4\n5359c9ff-b429-4fec-af12-c5f123d9ab41=1\nee210f34-5184-487f-abfd-d5a0cf665bfb=4\nce9625ce-48fd-431a-9c1a-bbd62d0f876f=8\n7e603164-0b30-440c-bbec-a1e9df6c329e=4\nbcf20a36-2ac8-4734-8be9-e17f26e3aa07=8\n6060c32d-2c1e-4d6a-962c-133e3d696b7a=0\ne5375461-a28e-4ca4-b6f1-9c024b0c2e68=4\n57f23e62-d06a-4909-972a-19ed3f8921b4=9\nf2cb919d-0cb7-4e81-a74d-345d73eb1341=4\n78012d38-dcee-4075-a1ca-6ccd36239585=9\n12fbb1ad-09b8-42bd-8167-850fccc9bf0a=4\n93a285bb-939e-4440-a2a4-0b0b3ba30a88=1\ne5a3f6e9-200d-424e-a7c5-68759cb98762=9\nd14be3c5-cd8d-464f-9778-1cbb7f9ea3c9=8\n8c61ba42-776d-4516-a4e8-6a6f4d830940=9\nffc10a08-fe6f-4295-a7e3-ec05ced8165a=7\n558df39c-78ed-40f4-b6b3-4d98a2b79cf3=4\n6a624ceb-5e5b-49dd-b96a-b0b985ad6f35=7\na231e0b7-b03c-4115-b96f-5ea6af66bdc1=4\n16fb3d07-8466-41ee-a857-37c86d80b52b=9\n89796bb1-0508-482a-9717-ac2861173382=4\n0c46f392-235e-47ef-a5ca-98688f71027c=4\neb153d37-47eb-42dc-8798-45a1bbad822d=9\n67c350e1-2f84-435d-974a-1d0294b26f7d=4\n22ff64cc-9a77-403a-858c-4ea8d07a8ee4=4\n46380dbb-5b83-4cde-b8a4-b42f22465be0=7\ne749652d-345f-447c-9581-377638101760=0\n040bef79-1a91-4aa4-ae2a-e2ec78660974=8\na889ecd8-0237-4f82-ac0d-8b22a4026b0c=4\na7744695-9ed4-4bd1-b606-c5caf728f8e0=4\ne7053be5-d3a2-4134-8be8-74d08f1c08dc=7\n18d207d0-de84-4e00-8244-fedc77b2c8de=4\nd065dd76-5b35-4a70-99f6-da419977a817=4\ndbb42011-6746-4a8e-80ea-919904a38173=4\n8df69693-e426-42f9-b6b6-2b0859a77c9b=2\n68c58b77-eb44-4ed2-9c83-9b443d937f09=7\ne5b4cab7-df6d-4117-8a65-020c9f4c58a4=4\n95b3bc9c-dd0a-48e0-ba7c-7f0e221514f6=6\na9894cb2-267c-4ff8-adfe-199a695789d6=0\n6515bf82-44c7-4bf8-bb3f-229fa8536a96=4\n4d6e5bfb-c170-4429-b9d0-511087c49ef9=6\ndc4c7ba6-9121-4043-85cb-d752f473a5fe=4\n6d9dbd7d-a0ec-449c-bc04-05d50361adf4=4\n204d3a40-46ff-4e91-9365-0ad5165826a1=4\n0e9f910b-0974-42e9-8ffe-13831a8dd748=4\n47472313-ef86-48c8-a12f-2febbdb730a5=0\nbc8826ff-ce48-4f31-8bc0-c3f26bd21988=8\ne6dd5fea-71b9-4cd5-a32c-ac075d9f0346=1\n12c4e493-477b-4023-bf5d-7aeb300ca6a4=0\n927c4f36-0793-4d47-be73-8ab919d6500f=4\n973f92c4-9d9f-4994-9b01-38bed9348729=0\nd21b9731-160f-4fb6-bce1-93f7f5306ab1=4\n4293f7b6-9bdb-468b-b1f4-3eb352cbd3fd=8\nd6a49a60-3976-4e22-94eb-34f64703e0bb=4\n12e2fbea-8e32-4270-92d6-4ab77184639b=9\n8ef1ed33-878f-489d-9ced-2abcbcf25ae2=0\nf8d1e32f-3325-44b4-9a8b-8496a57e68f6=4\n2392078f-5c45-4494-b7e1-7aa0ab108236=9\n54a8e011-518e-4120-be09-34ef0f63588b=0\n9b96aa91-98dc-43f0-bab1-22645ff10058=7\n49c4e98d-3113-4771-a543-7704c785c458=4\ndb1fbf77-a596-46db-a5ac-d67227fed832=4\na4c297bb-9ca1-4ad4-b338-ac6962937c7f=1\n7f489609-d6e1-485d-bcda-1f41aff8934f=4\n312338da-13d4-4dc8-bd3d-5e433a981fd0=1\ne7c4df1f-315e-4b6f-91b7-fd72446aeea5=6\n76b0a746-9322-4b9b-ac9b-929fb3da2302=4\n7fe384eb-5e7f-47ee-bcb1-f78a6ae0a5fd=0\n30e2c7eb-b3b1-42d9-9987-b36935576cdf=4\n9184ad39-109f-46ba-8d8b-3648364dd853=4\ne3c15bc7-c462-40ab-a106-04ac44cc7d80=9\nc798f07d-a849-498a-bea0-d1d65b2a4b67=4\nb7d35b58-a928-48e1-9190-8ac364ce436b=9\n5364ed03-95f7-4356-b503-a513ad915233=9\n25cd6672-7c33-4149-85dc-3234c3d4c5f6=8\n9d81cb47-6644-4c7b-9ae3-39b01ec4b616=4\nd01fe552-c830-426a-a7a3-c64be907493e=0\nfab2ae07-ef8e-4a0f-9766-051bc1320021=2\n45b657a8-2a10-4462-a4a0-bb4c8150236d=0\n5f1dde7d-d9fd-4cf4-b2b3-d3a0bce579ca=4\n0b6daf2c-33ee-4682-8196-939e2d557f6d=0\ndc02611a-715a-4620-877b-52fa639d896c=1\n239e77b0-1d4c-4919-ac44-01e99b057484=4\n7ee0f819-b05a-44a0-9c0e-1a13c2dbeea7=1\n2ee809c6-c513-4fa5-95b6-304d29fbf670=6\nd4c96728-5140-4e6d-bb30-1a13b536a808=8\na15f0a19-7f05-49c3-ac22-d99e2d0d88cb=0\n6071f92a-65e6-4ef0-96e8-734504e4b96d=7\n15d8af88-84c7-4b65-b600-e462e8a75909=1\n98de67d1-7274-459a-bc97-75110ee547dd=8\n46b6283f-1249-4799-b4bb-365bc1384573=9\nc7c33ff0-0d69-4e75-babd-6312c9f3589b=4\n0cfa3fc5-177c-4e6a-ae60-cf1edb08ea0d=4\nb8230023-6481-4bdf-9955-e4bb7a874a95=4\n367374fc-dabb-4186-bc5a-3c0984ff9585=1\naec1ae17-91a1-4465-a0c3-045aaa872e8f=6\n33ebfc40-2c3c-407f-9c16-1b52fab3f000=1\n73b35c83-19fa-46d1-b6fe-e8ea2f144c72=0\nd46b4932-3c4c-40d9-9608-ac04587b5afe=9\n5e3b2295-d574-41a5-9527-46c89f5fdc33=4\n01f39994-161e-4eae-8d20-7d1809feed2e=4\na6481e81-833f-47e5-9d33-8e21262a64e6=4\n39d8210e-1184-4f1c-9a95-5fb34f1dbc42=4\n20c13db1-ce2b-45c2-8b5a-96239148362a=1\na179f8f9-b404-4e97-89c5-2049c305935a=4\n66d3f4f8-5720-4cca-a189-38e309657b8b=4\nfecc089d-b680-412e-ad53-eb7a95514022=4\n27b6a231-9288-48be-b8a6-0c0b0e028fd1=6\n0c659eb2-a13a-4e05-9562-213858a061ce=4\n65873859-1e38-4352-afd2-8c5401cd48c6=9\n0426fc69-a95a-4982-8fb8-33f51234fbb7=4\n6af34a27-d059-485f-a077-b547421b175b=4\n37c02ea5-dccf-4c42-a795-532b586650d7=0\na335c4dd-620b-483e-b039-4333c4e61bd7=1\n7ca67235-b613-4d44-a358-f5a22a47919a=8\n1b8fa0ed-978d-4cf9-9720-62a40d14b533=4\nafc7e0bd-31f0-411e-b307-78e1e23b7b35=1\nd618c0bd-0904-41fb-b787-054029a9b5f8=4\nb50aebd1-1746-4baf-987a-3094ffa75c35=6\n6309e93c-933e-4554-94c7-e4748184ad8a=9\n9ccaa1b4-c5e6-4ded-b0fe-fcf2ccbb7e29=1\n072a9ac8-ed32-426d-900f-dafc826edce6=8\n11345cfd-32dd-4c9c-87b4-e979647ec395=4\n91ab31b3-3a1d-4e7f-9b9f-32872bf2d111=0\n34d8a080-cc52-4523-a3f5-7fd921f5a5d9=6\n3d723915-0183-4aa6-8dc7-dd2ab84b10ff=1\nbd2c4312-bbda-4994-9bba-27242cd64412=9\nfe20e05a-cc77-4eb2-bb0f-7f6b8e6b070f=4\n294ca5a9-1f0b-4c93-9242-f3c5c3693883=8\n3276a0d8-9311-4f7f-8629-b9ff7000cc40=0\n21557c33-3a87-4702-ac4c-3e0eac06cb28=8\ne1162821-ddf5-402f-a095-b51d28786b22=0\n124e9757-003b-4db6-a434-907facec110f=9\ncb9553f6-601e-42cb-8eab-41d16c9cad59=0\n7963ef9a-e482-44b8-a2b6-1b098599466c=4\n8d291447-c772-4be3-af83-7fc43d846a2c=8\ne2514d03-91b6-42bb-8a03-60ff794c1f88=8\na29e237f-9683-47c6-9d3d-d2f66cdfa61e=4\nd3140f40-1a0b-4fe5-88aa-43b077675950=6\nba70c6e6-6a01-46ce-b176-4f6bddb473b9=8\n21699e13-d173-4d5b-a25c-1271c13adb7a=4\n22694173-8eea-4a98-8c3c-55d32ea29e46=8\na907292c-de77-4080-a208-2dcaf7dbc747=4\n9d16ee06-5347-4530-b2e9-9696d52ab118=0\nba409080-291d-4997-bbcb-4d1ebf1aea90=4\n4e184e0a-1bfa-4cfe-aa8d-dd231101de5c=4\n4074e870-a362-4c6b-bc33-139a565f7764=4\n4e758ebf-7fd4-4f68-84db-49695567a3d7=1\n52650bf5-4b98-4ab7-8037-84023d7ce72f=1\n0a2476fe-74fe-47af-b553-80581cacdbeb=4\n207735e0-5f6b-4762-a0ea-32bcaacd0c1c=4\nd70d22e2-304a-4189-9941-dafec44910e1=4\n04852269-5a1c-4349-8ed4-3f77603afef2=1\n3e85109f-40ca-4464-ac45-c14793443791=7\n5c542446-6700-4341-9301-a9c509fd3d8d=9\nfa6b4c75-0ad5-40b5-b4a6-c3a4c2fac61c=7\n8689110b-ed87-4bfb-8125-4607493d6e14=4\n7408e1e4-4ded-455e-b9d4-ef9488613698=4\na6c16999-5c4d-4e6a-ac3f-2258ac8c69b8=0\nbc4c0122-f38e-4434-ac9f-1586e920e022=0\nb663411a-25c1-4904-b7c5-95e2ddddacb4=1\nb52722bf-747a-4d66-bbe2-a309388113be=4\neda52fba-a434-4d2c-abaf-9da2260056ac=9\n03a48af3-7a18-492b-afe8-37a21e4ff2ac=8\nd23e2a72-a1f6-4eb0-b5d6-d88a0acbd1ed=9\n0552fbce-6a1a-4f75-9890-672ea718635d=4\ndae06149-a856-4271-99d9-576acae108bf=4\nb056db00-63a0-4fd5-847c-5e61d80a5d3b=4\n698530d4-7026-49b4-a8d3-d576f854be5c=9\ncf3c8b9b-28c8-4654-b335-1f4d5a1cf261=9\nfa749d22-b395-4705-88b1-1fa92f990541=8\n6111a5e8-a83a-44a4-990c-cc670eb2f7cd=8\n263c77d7-ee1f-4c1c-aaaa-8cb634aa06b3=7\n84f4aeec-a9d1-4408-b49c-cab98178e5ee=4\na249c473-f071-4e07-b2e5-dc548f85df6d=4\n2c2d9640-9441-42e1-a483-63ff736503fa=4\n9058f154-97f4-45be-925c-ea7e430326db=4\ncb124e31-c567-4c33-ba5c-a12900751cfa=8\n02ef4691-3597-4ff9-ab28-1df80bd3d29c=4\n83a5f4ae-2a1b-48b2-8c7f-4bb885ff93ec=9\n40322aef-a673-48a0-9bcc-7eee28f10551=4\n111eb70a-3f31-45b3-b0e7-23da0c1d1035=4\n95917096-1144-4fd9-9d3e-c416346f9256=2\n7d1c1f7e-46d2-4bb9-98ca-4814e9994343=6\na9be67e8-b9ef-439f-a0dc-dcc0c4484df4=4\n04d760f4-bcee-4744-89a5-e35a352d7bae=8\n8d2d1742-4fba-4063-8166-9be964630d40=2\nd4d2f4e2-bfbc-494d-8f63-45230ba3939c=4\n0d5a5247-a3c6-47f3-9be0-72c6cec8049e=4\nfaffe357-9398-49d3-a255-40cb0419a99c=0\n06f05415-5960-4259-9a76-348691be8ad4=1\n4ec6b918-608d-40ae-88de-dd1c80bac06f=4\n0eefe24d-69b3-4bc8-8a57-ad8e508b1e3f=9\n57b3ecec-11ff-438a-bf86-6d78cece36c2=4\n592f3bf8-4ae3-4b26-b4e1-38d7bc0997a5=8\n5ab16e90-a61c-4c8d-8df5-7ccbd307505a=4\nfc9b1e4d-41b7-47de-8a21-45c8393d74e9=4\n46aa2a13-5501-47a8-9a5b-9934e512cd22=1\nba58abb9-61ef-4f8d-a4ce-8e739f211952=9\n8c26c544-c193-4bbf-ad3e-1130ccefeb8a=4\n2b003ccc-82b0-4e04-8013-6109c3a06a49=9\na3ec8245-0fb4-4805-9f19-e0c309da7c0b=9\n065f96f9-2c34-4802-b65a-5ccde11fd4d6=0\nf88ccc97-2aa8-40ce-b1e2-8b95260449ca=4\n5a7dff73-41c4-4579-b405-d3f5bf707ef3=4\nf8c3f73f-c68e-4889-bd85-8e3c724aff56=4\n2850f807-ff4d-4845-9359-7f0ca4e9bd74=9\n70d13475-0a35-4731-9bcc-72b8ed797444=9\naeab9841-fd24-4358-b5a6-d397545b3c1d=1\n75a32829-210f-4302-bc17-f354b0f16720=9\n1df8e001-a007-4897-97db-3825c7bd0954=7\nbf32aed1-25d1-439b-a52c-ac6bf1fb2724=8\n8f554648-4ea7-4bda-b8a3-8231f2abbc9d=0\n3c45aa4a-e134-4278-8991-348e2ce49a48=4\nb988962e-522f-4534-bbe2-f59629696a8d=0\nb1e254ae-2ba4-41d5-a6b7-2c3d30b92b55=1\n7e28d99e-07fe-4eea-90be-f9397d40e4c6=0\n602fde9a-fa7c-4791-a221-d5cb6361c9ca=1\nc158def3-582f-48dc-9b95-5b3848aca8a0=4\ne3fce377-e82d-4e24-a9a1-aef30ef727f8=9\n49fb6f7d-2f60-4ee9-a938-19d84ff458e8=4\nfafc8596-0677-498b-989b-f5aca9788e3e=4\n1da5a9f3-b0f7-46ea-a81b-6ae8294ccae1=9\n9e348e31-2958-4597-8b8e-6f7fcb4afe25=0\n3e7f7dae-0f30-4b6f-ae56-701f5958009b=8\na4790b66-2b3d-4ccd-bd35-06c1f65e708a=0\na7a30975-396f-4e1b-b4e3-be37c003d799=9\n67d12252-5e0c-453f-a289-10a7d1dc9a70=0\nfc594cba-8b6d-41ce-a14a-f28e0a5424de=1\n1e61ea69-9ae6-4f7a-9c9f-60badd654441=6\n9aa85e3b-092a-4c97-a017-aebe1d8eae6e=9\nf0aba74a-bbd7-407b-b114-f7c26b75e209=0\n487f9d99-c23b-4286-85fe-20534ef6222f=4\n842119ca-6df0-4d3e-84b8-b5390fc52019=0\nd5b15655-6cb7-4752-ae00-4192d80ec38c=7\neda5ae55-b42b-4a47-9ce3-27aa371a4def=1\n3ec2696b-61d8-49bb-b093-821812437269=8\n1c50fdd1-e61c-4ddb-92f6-87cd10cb4b60=4\nfe16b7c6-8806-4694-b590-f657c0723892=4\n940c8a7c-b6f7-499a-8586-1a5042ab1a53=8\nf95b670b-1463-46ce-b309-90b14002f1ff=9\n8320472e-3b60-4676-bb3d-6999aaed0590=7\nf8fe69c4-e873-4e15-96f0-f517ad43e8d2=7\n97d9dc99-03d9-4f80-bf86-4936d1358355=8\nd9c0159e-1233-42e5-b1d0-7048e7f48253=4\n7305938e-4737-43f0-bb09-3bfcc8f9fc5e=4\n9f96b701-7ee9-4828-ad1c-5d75db95d240=9\nccf02ef3-150c-48fb-9abf-28545dd200fa=6\na502c60b-7760-45ab-97db-3d245c25a926=0\nbd1a6a5d-2c60-46b2-b11c-4e52a83a046d=4\n52131fdd-a979-459a-9ad3-af132b729353=4\n4baee216-4a64-447f-826d-1626ff83a6a2=0\n7ab68294-fdd7-4ac7-b250-25d6e20ad882=4\n63315ea8-f2ee-462c-b773-7a1663d2ef1a=6\nd868417a-2c73-4c8f-93ac-b27c5c4db6bf=4\ne0535484-65be-4af2-bd4b-130e12c26173=1\nd557fb71-6748-46cc-a0ba-f6c044e35cbe=8\na6215b09-b5e9-421d-a8c2-0ddf8bf87a9d=4\n0ac13b14-1d37-489f-b8f5-87c41bf8cd82=4\nb36ad1e7-cc64-4059-915d-2f058e893cfe=4\n326b0386-07c7-45b0-8d85-8556b449df59=1\n2e204e59-c334-41bb-bbb6-4093ce24606d=0\n96d7d8de-8556-4511-bbee-6815f9d4cdb4=4\n4571fb7a-cddd-4b2f-9d9b-9d714e5a2da4=7\n2f00873a-5f89-4070-b9b1-9e2615212d41=0\ndd786ff2-e232-4bff-b6d9-96e65f89e9b3=1\n101d1c71-2b0d-4903-846e-54fcf75cd7a1=4\n19007c17-2265-4369-a536-d81a8d560143=0\n59633426-a029-458a-a07a-2a007340b121=1\n6033f29f-d8e1-454b-ac19-d389c28f827a=1\nd2e709c6-452d-48c8-becd-2163bcb7973c=9\ndabbe8cb-484f-4f2d-8712-1d3459ac84ea=0\n4b86bcad-c855-4a50-9dc6-05caad871204=0\n9abd0cb3-8823-480f-8bfd-39a8d308aa31=0\nb5b0d249-e088-4f91-b73c-199508448248=9\n9483d3fe-681d-4780-9978-d068d46b166f=4\ncd208025-84db-4e9a-9ae6-8b168b89a7f8=0\n"
-            }
+            "action": "remove",
+            "file": "boosted-brightness-2.1.0.jar"
         },
         {
-            "action": "download",
-            "file": "chatlagfix-1.16.5+1.17.1-2.1.0.jar",
-            "size": 7964
+            "action": "remove",
+            "file": "bubbleclient-mod-1.1.3.jar"
         },
         {
-            "action": "download",
-            "file": "cloth-config-5.3.58-fabric.jar",
-            "size": 1096188
+            "action": "remove",
+            "file": "chatlagfix-1.16.5+1.17.1-2.1.0.jar"
         },
         {
-            "action": "download",
-            "file": "cmdkeybind-1.5.2-1.17.jar",
-            "size": 1213005,
-            "config": {
-                "dir": "",
-                "file": "cmdkeybindconfig.json5",
-                "contents": {
-                    "enabled": true,
-                    "macros": [
-                        {
-                            "keyName": "key.keyboard.z",
-                            "keyModName": "key.keyboard.left.alt",
-                            "command": "/kill",
-                            "macroType": "SingleUse",
-                            "delay": 0
-                        },
-                        {
-                            "keyName": "key.keyboard.p",
-                            "keyModName": "key.keyboard.left.alt",
-                            "command": "/clan update",
-                            "macroType": "SingleUse",
-                            "delay": 0
-                        }
-                    ]
-                }
-            }
+            "action": "remove",
+            "file": "cloth-config-5.3.58-fabric.jar"
         },
         {
-            "action": "download",
-            "file": "cullleaves-2.3.2.jar",
-            "size": 82789
+            "action": "remove",
+            "file": "cmdkeybind-1.5.2-1.17.jar"
         },
         {
-            "action": "download",
-            "file": "custom_hud-1.2.3+1.17.jar",
-            "size": 49433,
-            "config": {
-                "dir": "/custom-hud",
-                "file": "profile1.txt",
-                "contents": "FPS: {fps}  |  Ping: {ping}"
-            }
+            "action": "remove",
+            "file": "cullleaves-2.3.2.jar"
         },
         {
-            "action": "download",
-            "file": "damage-tint-fabric-1.17.1-1.1.0.jar",
-            "size": 82444,
-            "config": {
-                "dir": "",
-                "file": "damage_tint.json",
-                "contents": {
-                    "health": 8.0,
-                    "dynamic": true
-                }
-            }
+            "action": "remove",
+            "file": "custom_hud-1.2.3+1.17.jar"
         },
         {
-            "action": "download",
-            "file": "enhancedblockentities-0.5+1.17.jar",
-            "size": 263535
+            "action": "remove",
+            "file": "damage-tint-fabric-1.17.1-1.1.0.jar"
         },
         {
-            "action": "download",
-            "file": "fabric-api-0.46.1+1.17.jar",
-            "size": 1207739
+            "action": "remove",
+            "file": "enhancedblockentities-0.5+1.17.jar"
         },
         {
-            "action": "download",
-            "file": "fabric-carpet-1.17.1-1.4.56+v211130.jar",
-            "size": 1439853
+            "action": "remove",
+            "file": "fabric-api-0.46.1+1.17.jar"
         },
         {
-            "action": "download",
-            "file": "fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar",
-            "size": 6015249
+            "action": "remove",
+            "file": "fabric-carpet-1.17.1-1.4.56+v211130.jar"
         },
         {
-            "action": "download",
-            "file": "fastopenlinksandfolders-1.0.0.jar",
-            "size": 8154
+            "action": "remove",
+            "file": "fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar"
         },
         {
-            "action": "download",
-            "file": "ferritecore-3.0.3-fabric.jar",
-            "size": 103202
+            "action": "remove",
+            "file": "fastopenlinksandfolders-1.0.0.jar"
         },
         {
-            "action": "download",
-            "file": "lazy-language-loader-0.2.2.jar",
-            "size": 16316
+            "action": "remove",
+            "file": "ferritecore-3.0.3-fabric.jar"
         },
         {
-            "action": "download",
-            "file": "lazydfu-0.1.2.jar",
-            "size": 15517
+            "action": "remove",
+            "file": "lazy-language-loader-0.2.2.jar"
         },
         {
-            "action": "download",
-            "file": "lithium-fabric-mc1.17.1-0.7.5.jar",
-            "size": 444781
+            "action": "remove",
+            "file": "lazydfu-0.1.2.jar"
         },
         {
-            "action": "download",
-            "file": "mcemojis-1.4.jar",
-            "size": 15426
+            "action": "remove",
+            "file": "lithium-fabric-mc1.17.1-0.7.5.jar"
         },
         {
-            "action": "download",
-            "file": "modmenu-2.0.14.jar",
-            "size": 262086
+            "action": "remove",
+            "file": "mcemojis-1.4.jar"
         },
         {
-            "action": "download",
-            "file": "morechathistory-1.17.1-1.1.0.jar",
-            "size": 11375
+            "action": "remove",
+            "file": "modmenu-2.0.14.jar"
         },
         {
-            "action": "download",
-            "file": "narrator-off-0.0.1.jar",
-            "size": 17275
+            "action": "remove",
+            "file": "morechathistory-1.17.1-1.1.0.jar"
         },
         {
-            "action": "download",
-            "file": "okzoomer-5.0.0-beta.3+1.17.1.jar",
-            "size": 269759
+            "action": "remove",
+            "file": "narrator-off-0.0.1.jar"
         },
         {
-            "action": "download",
-            "file": "perspektive-1.0.jar",
-            "size": 9426
+            "action": "remove",
+            "file": "okzoomer-5.0.0-beta.3+1.17.1.jar"
         },
         {
-            "action": "download",
-            "file": "replaymod-1.17.1-2.6.4.jar",
-            "size": 12432738,
-            "config": {
-                "dir": "",
-                "file": "replaymod.json",
-                "contents": {
-                    "core": {
-                        "notifications": false
-                    },
-                    "advanced": {
-                        "recordingPath": "./replay_recordings/",
-                        "cachePath": "./.replay_cache/",
-                        "renderPath": "./replay_videos/",
-                        "skipPostRenderGui": false,
-                        "askForOpenEye": true,
-                        "skipPostScreenshotGui": false,
-                        "fullBrightness": "replaymod.gui.settings.fullbrightness.gamma",
-                        "fullBrightness_valid_values": [
-                            "replaymod.gui.settings.fullbrightness.gamma",
-                            "replaymod.gui.settings.fullbrightness.nightvision",
-                            "replaymod.gui.settings.fullbrightness.both"
-                        ]
-                    },
-                    "recording": {
-                        "recordSingleplayer": false,
-                        "recordServer": true,
-                        "indicator": false,
-                        "autoStartRecording": false,
-                        "autoPostProcess": true,
-                        "renameDialog": false
-                    },
-                    "replay": {
-                        "showChat": true,
-                        "showServerIPs": true,
-                        "camera": "replaymod.camera.classic",
-                        "camera_valid_values": [
-                            "replaymod.camera.classic",
-                            "replaymod.camera.vanilla"
-                        ],
-                        "mainMenuButton": "DEFAULT",
-                        "mainMenuButton_valid_values": [
-                            "BIG",
-                            "DEFAULT",
-                            "TOP_LEFT",
-                            "TOP_RIGHT",
-                            "LEFT_OF_SINGLEPLAYER",
-                            "RIGHT_OF_SINGLEPLAYER",
-                            "LEFT_OF_MULTIPLAYER",
-                            "RIGHT_OF_MULTIPLAYER",
-                            "LEFT_OF_REALMS",
-                            "RIGHT_OF_REALMS",
-                            "LEFT_OF_MODS",
-                            "RIGHT_OF_MODS"
-                        ]
-                    },
-                    "render": {
-                        "frameTimeFromWorldTime": false
-                    },
-                    "simplepathing": {
-                        "pathpreview": true,
-                        "autosync": true,
-                        "timelineLength": 1800,
-                        "interpolator": "replaymod.gui.editkeyframe.interpolator.catmullrom.name",
-                        "interpolator_valid_values": [
-                            "replaymod.gui.editkeyframe.interpolator.catmullrom.name",
-                            "replaymod.gui.editkeyframe.interpolator.cubic.name",
-                            "replaymod.gui.editkeyframe.interpolator.linear.name"
-                        ]
-                    }
-                }
-            }
+            "action": "remove",
+            "file": "perspektive-1.0.jar"
         },
         {
-            "action": "download",
-            "file": "screenshot-to-clipboard-1.0.8-fabric.jar",
-            "size": 16541
+            "action": "remove",
+            "file": "replaymod-1.17.1-2.6.4.jar"
         },
         {
-            "action": "download",
-            "file": "sharpness-particles-1.0.0.jar",
-            "size": 5712
+            "action": "remove",
+            "file": "screenshot-to-clipboard-1.0.8-fabric.jar"
         },
         {
-            "action": "download",
-            "file": "sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
-            "size": 1286054,
-            "config": {
-                "dir": "",
-                "file": "sodium-options.json",
-                "contents": {
-                    "quality": {
-                        "weather_quality": "FAST",
-                        "leaves_quality": "FAST",
-                        "enable_vignette": true
-                    },
-                    "advanced": {
-                        "arena_memory_allocator": "ASYNC",
-                        "allow_direct_memory_access": true,
-                        "enable_memory_tracing": false,
-                        "use_advanced_staging_buffers": true,
-                        "cpu_render_ahead_limit": 3
-                    },
-                    "performance": {
-                        "chunk_builder_threads": 0,
-                        "always_defer_chunk_updates": false,
-                        "animate_only_visible_textures": true,
-                        "use_entity_culling": true,
-                        "use_particle_culling": true,
-                        "use_fog_occlusion": true,
-                        "use_block_face_culling": true
-                    },
-                    "notifications": {
-                        "hide_donation_button": false
-                    }
-                }
-            }
+            "action": "remove",
+            "file": "sharpness-particles-1.0.0.jar"
         },
         {
-            "action": "download",
-            "file": "togglewalk-1.1.0.jar",
-            "size": 64076,
-            "config": {
-                "dir": "",
-                "file": "togglewalk_config.json",
-                "contents": [
-                    {
-                        "toggle": "sprint"
-                    }
-                ]
-            }
+            "action": "remove",
+            "file": "sodium-fabric-mc1.17.1-0.3.4+build.13.jar"
+        },
+        {
+            "action": "remove",
+            "file": "togglewalk-1.1.0.jar"
         }
     ]
 }
