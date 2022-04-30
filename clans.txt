@@ -8,3 +8,4 @@
 7=§1§l@§r (Blyth)
 8=§6§l@§r (Elite)
 9=§e§l@§r (Rookie)
+10=§5§l@§r (FF)
