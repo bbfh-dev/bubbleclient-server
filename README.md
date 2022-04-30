@@ -13,6 +13,7 @@ Will let you have direct connection to clan members, ask for help without openin
 ## **Clans**
 I wrote my own mod, that displays player clans in-game and in player list. This way you don't get confused whom to attack in a big fight! **This database is constantly updating**, so you get the best experience, you can also add your own players using `/clan set <Player name> <Clan name>`! Every time you launch your game it's going to download all clans and all players and cache them so you don't have to memorize them!
 ![preview](https://i.ibb.co/h7Wjv4S/image.png)
+*(P.S. My FPS was so low because I turned on 1080p for the screenshot, while my laptop doesn't have a video card, usually I get 80-510 FPS while playing :)))*
 
 
 ## **Player name history lookup**
