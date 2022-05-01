@@ -64,3 +64,6 @@ Extract the downloaded `BubbleClient.zip` into your `.minecraft` directory. It s
 Go to Minecraft Launcher, choose `Installations`, then `Fabric Loader 1.18.2`, Click on modify and change directory to the one you just extracted. (`.minecraft/BubbleClient`).
 
 Then you can allocate more memory for better performance: [How to allocate more memory](https://scalacube.com/help/gameservers/minecraft/how-to-allocate-more-ram-to-your-minecraft-launchers)
+
+## Step 5: (Optional)
+You can also put icon: https://github.com/bubblefish-dev/bubbleclient-server/blob/main/launcher_icon.png :))
